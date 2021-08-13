@@ -1,23 +1,21 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q22966979,Catherine Martin,Catherine Martin,female,1972-12-07T00:00:00Z,11,,Q6865747,"Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media",Q22966979-8db373aa-4744-6649-08e4-d0b0884cee12
-Q1064368,Charles Flanagan,Charles Flanagan,male,1956-11-01T00:00:00Z,11,,Q6865904,Minister for Justice and Equality,Q1064368-a7054501-453f-8269-fbb1-cd9c6e2bc578
-Q5085220,Charlie McConalogue,Charlie McConalogue,male,1977-10-04T00:00:00Z,11,,Q6865750,"Minister for Agriculture, Food and the Marine",Q5085220-b22815e0-4414-1760-c3c7-42dbc3f7206f
-Q1166562,Darragh O'Brien,Darragh O'Brien,male,1974-07-08T00:00:00Z,11,,Q6866004,"Minister for Housing, Planning and Local Government",Q1166562-60af2e18-492a-4a70-02e3-50257feae67a
-Q5381683,Eoghan Murphy,Eoghan Murphy,male,1982-04-23T00:00:00Z,11,,Q6866004,"Minister for Housing, Planning and Local Government",Q5381683-76f27e0f-4f6f-7c7b-1896-f5cc0e8b0b46
-Q5693903,Heather Humphreys,Heather Humphreys,female,1963-05-14T00:00:00Z,11,,Q6865902,"Minister for Jobs, Enterprise and Innovation",Q5693903-c35cd3ec-4a7d-e2fc-c52d-f2b1d1e8d3d0
-Q8939886,Helen McEntee,Helen McEntee,female,1986-06-08T00:00:00Z,11,,Q6865904,Minister for Justice and Equality,Q8939886-7cf8c195-40e8-5624-f107-47906893a860
-Q23006324,Josepha Madigan,Josepha Madigan,female,1970-05-21T00:00:00Z,11,,Q6865747,"Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media",Q23006324-47415dfa-4c20-be41-8183-c2513b9d4a78
-Q6376580,Katherine Zappone,Katherine Zappone,female,1953-11-25T00:00:00Z,11,,Q6865756,Minister for Children and Youth Affairs,Q6376580-7bd862da-46e0-b739-9045-72a042e428fe
-Q1728820,Leo Varadkar,Leo Varadkar,male,1979-01-18T00:00:00Z,11,,Q1146214,Tánaiste,Q1728820-7cfc4e9f-4cb4-b659-2e0b-a3ba06a76a61
-Q6829535,Michael Creed,Michael Creed,male,1963-06-29T00:00:00Z,11,,Q6865750,"Minister for Agriculture, Food and the Marine",Q6829535-59a938b5-455f-8c8f-bd43-01c0b65749f0
-Q3777472,Michael Ring,Michael Ring,male,1953-12-24T00:00:00Z,11,,Q30645438,Minister for Community and Rural Affairs,Q3777472-7582a903-4c06-a195-f742-f674c0ecd389
-Q920403,Micheál Martin,Micheál Martin,male,1960-08-01T00:00:00Z,11,,Q191827,Taoiseach,Q920403-ad9d2963-4e43-a6bf-9d8c-9a9dce354cc9
-Q84768900,Norma Foley,Norma Foley,female,1970-01-01T00:00:00Z,9,,Q6865816,Minister for Education and Skills,Q84768900-8f1f88f5-4bd4-0acd-b42e-66cc3e5f3dfc
-Q1271675,Paschal Donohoe,Paschal Donohoe,male,1974-09-19T00:00:00Z,11,,Q4294945,Minister for Finance,Q1271675-4fe5df7d-4e84-a4a4-2035-2eb6e877b5ab
-Q1271675,Paschal Donohoe,Paschal Donohoe,male,1974-09-19T00:00:00Z,11,,Q6865939,Minister for Public Expenditure and Reform,Q1271675-2de8a62f-45ab-0db2-8434-62f6de9453c3
-Q7308461,Regina Doherty,Regina Doherty,female,1971-01-26T00:00:00Z,11,,Q6865958,Minister for Social Protection,Q7308461-2b5aded5-44a9-059a-63b8-3a1f9555699b
-Q981847,Richard Bruton,Richard Bruton,male,1953-03-15T00:00:00Z,11,,Q6865770,"Minister for Communications, Climate Action and Environment",Q981847-690b5c77-40d0-730c-62e3-823add542a46
-Q2276876,Shane Ross,Shane Ross,male,1949-07-11T00:00:00Z,11,,Q6865981,"Minister for Transport, Tourism and Sport",Q2276876-8ec75733-486f-2ee4-63bb-2b903d292114
-Q1670096,Simon Coveney,Simon Coveney,male,1972-06-16T00:00:00Z,11,,Q6865853,Minister for Foreign Affairs and Trade,Q1670096-be068a55-479a-c5f9-e3d1-bb48feb658b2
-Q7518922,Simon Harris,Simon Harris,male,1986-10-17T00:00:00Z,11,,Q101013450,"Minister for Further and Higher Education, Research, Innovation and Science",Q7518922-1c4a0f97-40ad-13e8-0e35-1a64d4554ed9
-Q13157830,Stephen Donnelly,Stephen Donnelly,male,1975-12-14T00:00:00Z,11,,Q6865864,Minister for Health,Q13157830-51a4a5cc-4db2-8c83-fa57-b7208906805d
+Q22966979,Catherine Martin,Catherine Martin,female,1972-12-07T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6865747,"Minister of Tourism, Culture, Arts, Gaeltacht, Sport and Media",Q22966979-8db373aa-4744-6649-08e4-d0b0884cee12
+Q5085220,Charlie McConalogue,Charlie McConalogue,male,1977-10-04T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6865750,"Minister of Agriculture, Food and the Marine",Q5085220-b22815e0-4414-1760-c3c7-42dbc3f7206f
+Q1166562,Darragh O'Brien,Darragh O'Brien,male,1974-07-08T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6866004,"Minister of Housing, Local Government and Heritage",Q1166562-60af2e18-492a-4a70-02e3-50257feae67a
+Q920195,Eamon Ryan,Eamon Ryan,male,1963-07-28T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6865981,Minister of Transport,Q920195-458E1200-527E-4973-930D-66BA8BD688C2
+Q920195,Eamon Ryan,Eamon Ryan,male,1963-07-28T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6865770,"Minister of the Environment, Climate and Communications",Q920195-55B79028-D941-4294-8188-8458A67F977B
+Q5693903,Heather Humphreys,Heather Humphreys,female,1963-05-14T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6865904,Minister of Justice,Q5693903-88A7A853-7D2D-4364-BC7C-99A31A5A8684
+Q5693903,Heather Humphreys,Heather Humphreys,female,1963-05-14T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q30645438,Minister of Rural and Community Development,Q5693903-0AB95FBA-41AA-4E7E-9129-B5EEBFE7A745
+Q5693903,Heather Humphreys,Heather Humphreys,female,1963-05-14T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q97304428,Minister of Social Protection,Q5693903-473CBA84-93BF-4FED-8034-8F4DCE700E4E
+Q8939886,Helen McEntee,Helen McEntee,female,1986-06-08T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q108072794,Minister without portfolio,Q8939886-A43D0B16-FF73-469E-B191-094C4D8759BF
+Q1728820,Leo Varadkar,Leo Varadkar,male,1979-01-18T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6865902,"Minister of Enterprise, Trade and Employment",Q1728820-2D603253-BD24-49D0-B47C-8E09510FC1BC
+Q1728820,Leo Varadkar,Leo Varadkar,male,1979-01-18T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q1146214,Tánaiste,Q1728820-7cfc4e9f-4cb4-b659-2e0b-a3ba06a76a61
+Q6832712,Michael McGrath,Michael McGrath,male,1976-08-23T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6865939,Minister of Public Expenditure and Reform,Q6832712-E1CC2AFC-2406-4FF9-8075-88CCD5A5AF09
+Q920403,Micheál Martin,Micheál Martin,male,1960-08-01T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q191827,Taoiseach,Q920403-ad9d2963-4e43-a6bf-9d8c-9a9dce354cc9
+Q84768900,Norma Foley,Norma Foley,female,1970-01-01T00:00:00Z,9,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6865816,Minister of Education,Q84768900-8f1f88f5-4bd4-0acd-b42e-66cc3e5f3dfc
+Q1271675,Paschal Donohoe,Paschal Donohoe,male,1974-09-19T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q4294945,Minister of Finance,Q1271675-4fe5df7d-4e84-a4a4-2035-2eb6e877b5ab
+Q16980123,Roderic O'Gorman,Roderic O'Gorman,male,1982-12-12T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6865756,"Minister of Children, Equality, Disability, Integration and Youth",Q16980123-DC0214D9-87E9-4CE9-96DF-CC43A93F2CB0
+Q1670096,Simon Coveney,Simon Coveney,male,1972-06-16T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6865781,Minister of Defence,Q1670096-C4CD77DD-294E-4CF2-BCDC-FD5D67B3BA4B
+Q1670096,Simon Coveney,Simon Coveney,male,1972-06-16T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6865853,Minister of Foreign Affairs,Q1670096-be068a55-479a-c5f9-e3d1-bb48feb658b2
+Q7518922,Simon Harris,Simon Harris,male,1986-10-17T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q101013450,"Minister of Further and Higher Education, Research, Innovation and Science",Q7518922-1c4a0f97-40ad-13e8-0e35-1a64d4554ed9
+Q13157830,Stephen Donnelly,Stephen Donnelly,male,1975-12-14T00:00:00Z,11,https://www.gov.ie/en/organisation-information/9b5048-government-ministers/,Q6865864,Minister of Health,Q13157830-51a4a5cc-4db2-8c83-fa57-b7208906805d
