@@ -1,0 +1,686 @@
+{
+  "title": "Seán Ó Fearghaíl",
+  "pageID": 3194760,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Fianna Fáil TDs",
+    "Irish farmers",
+    "Local councillors in County Kildare",
+    "Members of the 21st Seanad",
+    "Members of the 29th Dáil",
+    "Members of the 30th Dáil",
+    "Members of the 31st Dáil",
+    "Members of the 32nd Dáil",
+    "Politicians from County Kildare",
+    "Presiding officers of Dáil Éireann",
+    "Fianna Fáil senators",
+    "Members of the 33rd Dáil"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Seán Ó Fearghaíl (born 17 April 1960) is an Irish Fianna Fáil politician who has served as the Ceann Comhairle of Dáil Éireann since March 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fianna Fáil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ceann Comhairle"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dáil Éireann"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Seán Ó Fearghaíl"
+                ]
+              }
+            },
+            {
+              "text": "He has been a Teachta Dála (TD) for the Kildare South constituency since 2002.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Teachta Dála"
+                },
+                {
+                  "text": "Kildare South",
+                  "type": "internal",
+                  "page": "Kildare South (Dáil constituency)"
+                },
+                {
+                  "text": "2002",
+                  "type": "internal",
+                  "page": "2002 Irish general election"
+                }
+              ]
+            },
+            {
+              "text": "He was a Senator for the Agricultural Panel from 2000 to 2002.",
+              "links": [
+                {
+                  "text": "Senator",
+                  "type": "internal",
+                  "page": "Seanad Éireann"
+                },
+                {
+                  "type": "internal",
+                  "page": "Agricultural Panel"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Constituency office.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Constituency_office.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Constituency_office.jpg",
+          "caption": "Ó Fearghaíl's constituency office, Kildare",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Irish politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2017",
+          "template": "engvarb"
+        },
+        {
+          "date": "December 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1960",
+          "month": "4",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "transcription": "ˈʃaːn̪ˠ oː ˈfʲaɾˠɣiːlʲ",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Seán Ó Fearghaíl"
+          },
+          "honorific-suffix": {
+            "text": "TD",
+            "links": [
+              {
+                "text": "TD",
+                "type": "internal",
+                "page": "Teachta Dála"
+              }
+            ]
+          },
+          "image": {
+            "text": "Seán Ó Fearghaíl 2020 (cropped) 2.jpg"
+          },
+          "caption": {
+            "text": "Ó Fearghaíl in 2020"
+          },
+          "office": {
+            "text": "Ceann Comhairle of Dáil Éireann",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ceann Comhairle"
+              },
+              {
+                "type": "internal",
+                "page": "Dáil Éireann"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Pat \"the Cope\" Gallagher (2016–2020) Catherine Connolly (2020–)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pat \"the Cope\" Gallagher"
+              },
+              {
+                "type": "internal",
+                "page": "Catherine Connolly"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 March 2016"
+          },
+          "predecessor": {
+            "text": "Seán Barrett",
+            "links": [
+              {
+                "text": "Seán Barrett",
+                "type": "internal",
+                "page": "Seán Barrett (politician)"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Teachta Dála",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teachta Dála"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "May 2002",
+            "links": [
+              {
+                "text": "May 2002",
+                "type": "internal",
+                "page": "2002 Irish general election"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Kildare South",
+            "links": [
+              {
+                "text": "Kildare South",
+                "type": "internal",
+                "page": "Kildare South (Dáil constituency)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Senator",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Seanad Éireann"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "13 June 2000"
+          },
+          "term_end2": {
+            "text": "20 May 2002"
+          },
+          "constituency2": {
+            "text": "Agricultural Panel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Agricultural Panel"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 17, 1960"
+          },
+          "birth_place": {
+            "text": "Newbridge, County Kildare, Ireland",
+            "links": [
+              {
+                "text": "Newbridge",
+                "type": "internal",
+                "page": "Newbridge, County Kildare"
+              },
+              {
+                "type": "internal",
+                "page": "County Kildare"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Irish",
+            "links": [
+              {
+                "text": "Irish",
+                "type": "internal",
+                "page": "Irish people"
+              }
+            ]
+          },
+          "party": {
+            "text": "Fianna Fáil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fianna Fáil"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Mary Clare Meaney (m. 1997)"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "alma_mater": {
+            "text": "Dublin City University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dublin City University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.oireachtas.ie/en/members/member/Se%C3%A1n-%C3%93-Feargha%C3%ADl.S.2000-06-09/",
+          "title": "Seán Ó Fearghaíl",
+          "work": "Oireachtas Members Database",
+          "access-date": "11 January 2019",
+          "archive-date": "11 January 2019",
+          "archive-url": "https://web.archive.org/web/20190111175334/https://www.oireachtas.ie/en/members/member/Se%C3%A1n-%C3%93-Feargha%C3%ADl.S.2000-06-09/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ó Fearghaíl comes from a farming background, and previously worked for Dublin Corporation.",
+              "links": [
+                {
+                  "text": "Dublin Corporation",
+                  "type": "internal",
+                  "page": "Dublin City Council"
+                }
+              ]
+            },
+            {
+              "text": "He was elected as a member of Kildare County Council in 1985.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kildare County Council"
+                },
+                {
+                  "text": "1985",
+                  "type": "internal",
+                  "page": "1985 Irish local elections"
+                }
+              ]
+            },
+            {
+              "text": "He first stood for election to Dáil Éireann in the Kildare constituency at the 1987 general election, but was unsuccessful.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dáil Éireann"
+                },
+                {
+                  "text": "Kildare",
+                  "type": "internal",
+                  "page": "Kildare (Dáil constituency)"
+                },
+                {
+                  "text": "1987 general election",
+                  "type": "internal",
+                  "page": "1987 Irish general election"
+                }
+              ]
+            },
+            {
+              "text": "He was unsuccessful again at the 1989 general election.",
+              "links": [
+                {
+                  "text": "1989 general election",
+                  "type": "internal",
+                  "page": "1989 Irish general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After further defeats at the 1992 and 1997 general elections, he stood for Seanad Éireann in 1997, as a candidate before the Agricultural Panel, but he was again unsuccessful in seeking election.",
+              "links": [
+                {
+                  "text": "1992",
+                  "type": "internal",
+                  "page": "1992 Irish general election"
+                },
+                {
+                  "text": "1997",
+                  "type": "internal",
+                  "page": "1997 Irish general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Seanad Éireann"
+                },
+                {
+                  "type": "internal",
+                  "page": "Agricultural Panel"
+                }
+              ]
+            },
+            {
+              "text": "He won a seat in the 21st Seanad following a by-election held in June 2000, after the death of Senator Patrick McGowan.",
+              "links": [
+                {
+                  "text": "21st Seanad",
+                  "type": "internal",
+                  "page": "21st Seanad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Patrick McGowan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ó Fearghaíl won a Dáil seat on his fifth attempt following the 2002 general election, when he defeated the sitting Fine Gael TD Alan Dukes.",
+              "links": [
+                {
+                  "text": "2002 general election",
+                  "type": "internal",
+                  "page": "2002 Irish general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fine Gael"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alan Dukes"
+                }
+              ]
+            },
+            {
+              "text": "At the 2007 general election, he topped the poll and was elected on the first count.",
+              "links": [
+                {
+                  "text": "2007 general election",
+                  "type": "internal",
+                  "page": "2007 Irish general election"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected at the 2011 general election and at the 2016 general election.",
+              "links": [
+                {
+                  "text": "2011 general election",
+                  "type": "internal",
+                  "page": "2011 Irish general election"
+                },
+                {
+                  "text": "2016 general election",
+                  "type": "internal",
+                  "page": "2016 Irish general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was the Fianna Fáil party whip and Spokesperson on Foreign Affairs and Trade from April 2011 to July 2012.",
+              "links": [
+                {
+                  "text": "party whip",
+                  "type": "internal",
+                  "page": "Whip (politics)"
+                }
+              ]
+            },
+            {
+              "text": "In July 2012, he was appointed as Spokesperson on Constitutional Reform, Arts and Culture, and Defence, while retaining the post of party whip."
+            },
+            {
+              "text": "Ó Fearghaíl sent Éamon Ó Cuív a letter gagging him during the European Fiscal Compact referendum campaign, after Ó Cuív expressed his own opinion of the Compact against the party's wishes.",
+              "links": [
+                {
+                  "text": "Éamon Ó Cuív",
+                  "type": "internal",
+                  "page": "Éamon Ó Cuív"
+                },
+                {
+                  "text": "European Fiscal Compact referendum campaign",
+                  "type": "internal",
+                  "page": "Thirtieth Amendment of the Constitution of Ireland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected as Ceann Comhairle of Dáil Éireann, by its members, at the first sitting of the 32nd Dáil on 10 March 2016.",
+              "links": [
+                {
+                  "text": "elected as Ceann Comhairle",
+                  "type": "internal",
+                  "page": "2016 Ceann Comhairle election"
+                },
+                {
+                  "text": "32nd Dáil",
+                  "type": "internal",
+                  "page": "32nd Dáil"
+                }
+              ]
+            },
+            {
+              "text": "This was the first time the position was filled by secret ballot."
+            },
+            {
+              "text": "He was re-elected to the position at the first sitting of the 33rd Dáil on 20 February 2020.",
+              "links": [
+                {
+                  "text": "re-elected to the position",
+                  "type": "internal",
+                  "page": "2020 Ceann Comhairle election"
+                },
+                {
+                  "text": "33rd Dáil",
+                  "type": "internal",
+                  "page": "33rd Dáil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2018 he warned Teachtaí Dála and Senators that contact with Taiwan would \"offend the Chinese government\", and could damage Ireland’s business and diplomatic relationship with China."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.oireachtas.ie/viewdoc.asp?fn=/documents/a-misc/21seanad.htm",
+          "title": "Members of the 21st Seanad 1997–2002",
+          "work": "Office of the Houses of the Oireachtas",
+          "access-date": "22 November 2007",
+          "archive-date": "19 November 2007",
+          "archive-url": "https://web.archive.org/web/20071119080903/http://www.oireachtas.ie/viewdoc.asp?fn=%2Fdocuments%2Fa-misc%2F21seanad.htm",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/uk-northern-ireland-17988267",
+          "title": "Ó Cuív say he will remain in Fianna Fáil",
+          "publisher": "BBC News",
+          "date": "8 May 2012",
+          "access-date": "20 June 2018",
+          "archive-date": "4 January 2018",
+          "archive-url": "https://web.archive.org/web/20180104053046/http://www.bbc.co.uk/news/uk-northern-ireland-17988267",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Here's the first ever Ceann Comhairle to be elected by secret ballot",
+          "url": "https://www.thejournal.ie/new-ceann-comhairle-2651942-Mar2016/",
+          "website": "thejournal.ie",
+          "access-date": "28 February 2020",
+          "archive-date": "28 February 2020",
+          "archive-url": "https://web.archive.org/web/20200228205034/https://www.thejournal.ie/new-ceann-comhairle-2651942-Mar2016/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Selection of the Ceann Comhairle",
+          "url": "https://www.oireachtas.ie/en/elections/selection-of-the-ceann-comhairle/",
+          "website": "www.oireachtas.ie",
+          "access-date": "28 February 2020",
+          "archive-date": "12 February 2020",
+          "archive-url": "https://web.archive.org/web/20200212211244/https://www.oireachtas.ie/en/elections/selection-of-the-ceann-comhairle/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Seán Ó Fearghaíl has been re-elected Ceann Comhairle of Dáil Éireann",
+          "url": "https://www.thejournal.ie/sean-o-fearghail-has-been-re-elected-ceann-comhairle-of-dail-eireann-5015115-Feb2020/",
+          "website": "thejournal.ie",
+          "access-date": "28 February 2020",
+          "archive-date": "20 February 2020",
+          "archive-url": "https://web.archive.org/web/20200220143102/https://www.thejournal.ie/sean-o-fearghail-has-been-re-elected-ceann-comhairle-of-dail-eireann-5015115-Feb2020/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Leahy",
+          "first": "Pat",
+          "title": "TDs are warned contact with Taiwan 'will offend China'",
+          "url": "https://www.irishtimes.com/news/politics/tds-are-warned-contact-with-taiwan-will-offend-china-1.3674753",
+          "access-date": "2021-05-09",
+          "website": "The Irish Times",
+          "language": "en",
+          "archive-date": "28 November 2020",
+          "archive-url": "https://web.archive.org/web/20201128234904/https://www.irishtimes.com/news/politics/tds-are-warned-contact-with-taiwan-will-offend-china-1.3674753",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.electionsireland.org/candidate.cfm?id=3694",
+          "title": "Seán Ó Fearghail",
+          "work": "ElectionsIreland.org",
+          "access-date": "22 November 2007",
+          "archive-date": "16 June 2007",
+          "archive-url": "https://web.archive.org/web/20070616045003/http://www.electionsireland.org/candidate.cfm?id=3694",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "https://www.oireachtas.ie/en/members/office-holders/ceann-comhairle/"
+          ],
+          "template": "official website"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "ie/oi"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Alan Dukes (Fine Gael)",
+          "template": "s-bef"
+        },
+        {
+          "title": "Fianna Fáil Teachta Dála for Kildare South",
+          "years": "2002–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Seán Barrett",
+          "template": "s-bef"
+        },
+        {
+          "title": "Ceann Comhairle of Dáil Éireann",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "current tds"
+        },
+        {
+          "template": "presiding officers of dáil éireann"
+        },
+        {
+          "template": "members of the 21st seanad"
+        }
+      ]
+    }
+  ]
+}
