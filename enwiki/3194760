@@ -519,7 +519,33 @@
         {
           "sentences": [
             {
-              "text": "In 2018 he warned Teachtaí Dála and Senators that contact with Taiwan would \"offend the Chinese government\", and could damage Ireland’s business and diplomatic relationship with China."
+              "text": "In 2018, he warned Teachtaí Dála and Senators that contact with Taiwan would \"offend the Chinese government\", and could damage Ireland’s business and diplomatic relationship with China."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 22 November 2021, Ó Fearghaíl began self-isolating and working from home after testing positive for COVID-19.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
+            },
+            {
+              "text": "Leas-Cheann Comhairle Catherine Connolly took over his duties.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Leas-Cheann Comhairle"
+                },
+                {
+                  "type": "internal",
+                  "page": "Catherine Connolly"
+                }
+              ]
             }
           ]
         }
@@ -594,6 +620,15 @@
           "url-status": "live",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.rte.ie/news/politics/2021/1122/1262446-sean-o-fearghail/",
+          "title": "Dáil Ceann Comhairle Seán Ó Feargháil tests positive for Covid-19",
+          "publisher": "RTÉ News and Current Affairs",
+          "date": "22 November 2021",
+          "accessdate": "22 November 2021",
+          "template": "citation",
+          "type": "news"
         },
         {
           "url": "http://www.electionsireland.org/candidate.cfm?id=3694",
