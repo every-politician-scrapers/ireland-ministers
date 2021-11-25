@@ -103,12 +103,12 @@
           "template": "short description"
         },
         {
-          "date": "May 2016",
+          "date": "November 2021",
           "template": "use dmy dates"
         },
         {
-          "date": "May 2016",
-          "template": "use irish english"
+          "date": "November 2021",
+          "template": "use hiberno-english"
         },
         {
           "year": "1971",
@@ -1311,6 +1311,9 @@
           "after": "Heather Humphreys",
           "as": "Minister for Social Protection",
           "template": "s-aft"
+        },
+        {
+          "template": "government chief whip (ireland)"
         },
         {
           "template": "31st government of ireland"
