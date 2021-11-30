@@ -296,31 +296,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "Notes",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-gov"
-        },
-        {
-          "before": "Philip R. Lane Permanent Sharon Donnery Acting",
-          "template": "s-bef"
-        },
-        {
-          "title": "Governor of the Central Bank of Ireland",
-          "years": "2019 – present",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Incumbent",
-          "template": "s-aft"
-        }
-      ]
     }
   ]
 }
