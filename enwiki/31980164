@@ -80,14 +80,11 @@
           "name": {
             "text": "Donal O'Donnell"
           },
+          "order": {
+            "text": "13th"
+          },
           "office": {
-            "text": "13th Chief Justice of Ireland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Justice of Ireland"
-              }
-            ]
+            "text": "Chief Justice of Ireland"
           },
           "term_start": {
             "text": "11 October 2021"
@@ -160,7 +157,7 @@
             "text": "October 25, 1957"
           },
           "birth_place": {
-            "text": "Belfast",
+            "text": "Belfast, Northern Ireland",
             "links": [
               {
                 "type": "internal",
