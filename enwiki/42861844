@@ -149,49 +149,6 @@
               }
             ]
           },
-          "office1": {
-            "text": "Chairman of the Green Party",
-            "links": [
-              {
-                "text": "Green Party",
-                "type": "internal",
-                "page": "Green Party (Ireland)"
-              }
-            ]
-          },
-          "leader1": {
-            "text": "Eamon Ryan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eamon Ryan"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "20 May 2011"
-          },
-          "term_end1": {
-            "text": "29 November 2019"
-          },
-          "predecessor1": {
-            "text": "Francis Noel Duffy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Francis Noel Duffy"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Hazel Chu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hazel Chu"
-              }
-            ]
-          },
           "office2": {
             "text": "Teachta Dála",
             "links": [
