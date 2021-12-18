@@ -309,15 +309,6 @@
               }
             ]
           },
-          "deputy": {
-            "text": "Paul Coghlan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paul Coghlan"
-              }
-            ]
-          },
           "term_start": {
             "text": "8 June 2016"
           },
