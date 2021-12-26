@@ -1,0 +1,50 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q213702,President of Ireland,Q27,Q27,,,1938-06-25,,,,President of Ireland
+Q1146214,Tánaiste,Q27,Q27,,,1937-12-29,,,,Tánaiste
+Q6865750,"Minister for Agriculture, Food and the Marine",Q27,Q27,,,1919-04-02,,,,"Minister for Agriculture, Food and the Marine"
+Q6865756,Minister for Children and Youth Affairs,Q27,Q27,,,1956-06-02,,,,"Minister for Children, Equality, Disability, Integration and Youth"
+Q6865770,"Minister for Communications, Climate Action and Environment",Q27,Q27,,,1919-04-02,,,,"Minister for the Environment, Climate and Communications"
+Q30645438,Minister for Community and Rural Affairs,Q27,Q27,,,2017-06-14,,,,Minister for Rural and Community Development
+Q6865781,Minister for Defence,Q27,Q27,,,1919-01-22,,,,Minister for Defence (Ireland)
+Q6865793,Minister for Economic Affairs,Q27,Q27,,,,,,,Minister for Economic Affairs
+Q57233308,Minister for Equality and Law Reform,Q27,Q27,,,1993,1997,,,
+Q4294945,Irish Minister for Finance,Q27,Q27,,,1919-01-22,,,,Minister for Finance (Ireland)
+Q6865853,Minister for Foreign Affairs and Trade,Q27,Q27,,,1919-01-22,,,,Minister for Foreign Affairs (Ireland)
+Q6865864,Irish Minister for Health,Q27,Q27,,,1947-01-22,,,,Minister for Health (Ireland)
+Q6866004,"Minister for Housing, Planning and Local Government",Q27,Q27,,,1919-04-02,,,,"Minister for Housing, Local Government and Heritage"
+Q6865902,"Minister for Jobs, Enterprise and Innovation",Q27,Q27,,,1919-06-17,,,,"Minister for Enterprise, Trade and Employment"
+Q6865904,Irish Minister for Justice and Equality,Q27,Q27,,,1919-01-22,,,,Minister for Justice (Ireland)
+Q932991,Minister for Labour,Q27,Q27,,,1919,1997,,,Minister for Labour (Ireland)
+Q6865939,Minister for Public Expenditure and Reform,Q27,Q27,,,2011-03-09,,,,Minister for Public Expenditure and Reform
+Q6865958,Minister for Social Protection,Q27,Q27,,,1947-01-22,,,,"Minister for Social Protection, Community and Rural Development and the Islands (Ireland)"
+Q97304428,"Minister for Social Protection, Community and Rural Development and the Islands",Q27,Q27,,,,,,,Minister for Social Protection
+Q6865970,Minister for Supplies,Q27,Q27,,,,,,,Minister for Supplies
+Q6865747,"Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media",Q27,Q27,,,1977-07-08,,,,"Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media"
+Q108072794,Minister without portfolio,Q27,Q27,,,,,,,
+Q6866336,Minister of State at the Department of Defence,Q27,,,,1978-01-01,,,,Minister of State at the Department of Defence
+Q104829610,Minister of State at the Department of Education,Q27,Q27,,,,,,,Minister of State at the Department of Education
+Q6866337,Minister of State at the Department of Finance,Q27,Q27,,,,,,,Minister of State at the Department of Finance
+Q6866341,Minister of State at the Department of the Taoiseach,Q27,Q27,,,1922-12-06,,,,Minister of State at the Department of the Taoiseach
+Q6866339,Minister of State for Children,Q27,Q27,,,1994-12-20,2011-03-09,,,Minister of State for Children
+Q56006689,Minister of State for Environment and Energy,Q27,Q27,,,,,,,
+Q6866354,Minister of State for European Affairs,Q27,Q27,,,1994,,,,Minister of State for European Affairs
+Q6866355,Minister of State for Fisheries and Forestry,Q27,,,,,,,,Minister of State for the Marine
+Q6866356,"Minister of State for Food, Horticulture and Food Safety",Q27,,,,,,,,"Minister of State for Research & Development, Farm Safety and New Market Development"
+Q23308552,Minister of State for Housing and Planning,Q27,Q27,,,,,,,
+Q6866364,Minister of State for Labour Affairs,Q27,Q27,,,,,,,"Minister of State at the Department of Enterprise, Trade and Employment"
+Q6866369,Minister of State for Overseas Development,Q27,Q27,,,,,,,Minister of State at the Department of Foreign Affairs
+Q25342399,Minister of State for Regional Economic Development,,Q27,,,,,,,
+Q23957944,Minister of State for Rural Economic Development and Rural Transport,Q27,Q27,,,,,,,
+Q24198537,Minister of State for Small Business,Q27,,,,2011-03-10,2014-07-15,,,
+Q25342400,Minister of State for Tourism and Sport,,Q27,,,,,,,
+Q6866375,Minister of State for Trade and Development,Q27,Q27,,,,,,,Minister of State for Trade Promotion
+Q22983531,Minister of State for the NewEra Project,Q27,Q27,,,,,,,
+Q105103726,Minister of State with responsibility for Sport and the Gaeltacht,Q27,Q27,,,,,,,
+Q467926,Cathaoirleach,Q27,Q27,Q108913876,,1922-12-06,,,,Cathaoirleach
+Q1052201,Ceann Comhairle,Q27,Q27,,,1919-01-21,,,,Ceann Comhairle
+Q63706078,Leas-Cheann Comhairle,Q27,Q27,,,,,,,
+Q6508580,Leader of the Seanad,Q27,Q27,,,,,,,Leader of the Seanad
+Q3777749,Attorney General of Ireland,Q27,Q27,,,1922-01-31,,,,Attorney General of Ireland
+Q1072323,Chief Justice of Ireland,Q27,Q31747,,,1924-06-24,,,,Chief Justice of Ireland
+Q109484048,Governor of the Central Bank of Ireland,Q27,,,,,,,,
+Q6070690,Irish Defence Forces Chief of Staff,,,,,,,,,Chief of Staff of the Defence Forces (Ireland)
