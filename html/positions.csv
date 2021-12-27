@@ -1,25 +1,32 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q213702,President of Ireland,Q27,Q27,,,1938-06-25,,,,President of Ireland
+Q191827,Taoiseach,Q27,Q27,Q1146214,Q30337061,1937-12-29,,Q4376681,,Taoiseach
 Q1146214,Tánaiste,Q27,Q27,,,1937-12-29,,,,Tánaiste
 Q6865750,"Minister for Agriculture, Food and the Marine",Q27,Q27,,,1919-04-02,,,,"Minister for Agriculture, Food and the Marine"
 Q6865756,Minister for Children and Youth Affairs,Q27,Q27,,,1956-06-02,,,,"Minister for Children, Equality, Disability, Integration and Youth"
+Q6865764,Minister for Communications,Q27,Q27,,,1984-01-02,1991-02-06,Q11781521,Q6865981,Minister for Communications (Ireland)
 Q6865770,"Minister for Communications, Climate Action and Environment",Q27,Q27,,,1919-04-02,,,,"Minister for the Environment, Climate and Communications"
 Q30645438,Minister for Community and Rural Affairs,Q27,Q27,,,2017-06-14,,,,Minister for Rural and Community Development
 Q6865781,Minister for Defence,Q27,Q27,,,1919-01-22,,,,Minister for Defence (Ireland)
 Q6865793,Minister for Economic Affairs,Q27,Q27,,,,,,,Minister for Economic Affairs
+Q6865816,Minister for Education and Skills,Q27,Q27,,,1921-08-26,,Q32947327,,Minister for Education (Ireland)
 Q57233308,Minister for Equality and Law Reform,Q27,Q27,,,1993,1997,,,
 Q4294945,Irish Minister for Finance,Q27,Q27,,,1919-01-22,,,,Minister for Finance (Ireland)
 Q6865853,Minister for Foreign Affairs and Trade,Q27,Q27,,,1919-01-22,,,,Minister for Foreign Affairs (Ireland)
+Q101013450,"Minister for Further and Higher Education, Research, Innovation and Science",Q27,,,,2020-08-02,,,,"Minister for Further and Higher Education, Research, Innovation and Science"
 Q6865864,Irish Minister for Health,Q27,Q27,,,1947-01-22,,,,Minister for Health (Ireland)
 Q6866004,"Minister for Housing, Planning and Local Government",Q27,Q27,,,1919-04-02,,,,"Minister for Housing, Local Government and Heritage"
 Q6865902,"Minister for Jobs, Enterprise and Innovation",Q27,Q27,,,1919-06-17,,,,"Minister for Enterprise, Trade and Employment"
 Q6865904,Irish Minister for Justice and Equality,Q27,Q27,,,1919-01-22,,,,Minister for Justice (Ireland)
 Q932991,Minister for Labour,Q27,Q27,,,1919,1997,,,Minister for Labour (Ireland)
+Q11781521,Minister for Posts and Telegraphs,Q27,Q27,,,1922-04-01,1984-01-02,,Q6865764,Minister for Posts and Telegraphs
 Q6865939,Minister for Public Expenditure and Reform,Q27,Q27,,,2011-03-09,,,,Minister for Public Expenditure and Reform
 Q6865958,Minister for Social Protection,Q27,Q27,,,1947-01-22,,,,"Minister for Social Protection, Community and Rural Development and the Islands (Ireland)"
 Q97304428,"Minister for Social Protection, Community and Rural Development and the Islands",Q27,Q27,,,,,,,Minister for Social Protection
 Q6865970,Minister for Supplies,Q27,Q27,,,,,,,Minister for Supplies
 Q6865747,"Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media",Q27,Q27,,,1977-07-08,,,,"Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media"
+Q6865981,"Minister for Transport, Tourism and Sport",Q27,Q27,,,1959-07-27,,Q6866014,,Minister for Transport (Ireland)
+Q6866014,Minister for the Public Service,Q27,Q27,,,1973-11-01,1987-03-20,,Q6865981,Minister for the Public Service
 Q108072794,Minister without portfolio,Q27,Q27,,,,,,,
 Q6866336,Minister of State at the Department of Defence,Q27,,,,1978-01-01,,,,Minister of State at the Department of Defence
 Q104829610,Minister of State at the Department of Education,Q27,Q27,,,,,,,Minister of State at the Department of Education
