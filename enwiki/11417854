@@ -275,6 +275,10 @@
       ],
       "templates": [
         {
+          "description": "Irish Fine Gael politician and physician (born 1979)",
+          "template": "short description"
+        },
+        {
           "template": "redirect",
           "redirect": "Varadkar",
           "links": [
@@ -283,10 +287,6 @@
               "desc": "the surname"
             }
           ]
-        },
-        {
-          "description": "Irish Fine Gael politician and physician (born 1979)",
-          "template": "short description"
         },
         {
           "date": "June 2020",
