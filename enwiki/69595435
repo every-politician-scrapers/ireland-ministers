@@ -1,0 +1,190 @@
+{
+  "title": "Seán Clancy (Irish general)",
+  "pageID": 69595435,
+  "categories": [
+    "Irish military personnel",
+    "Irish generals",
+    "Chiefs of Staff of the Defence Forces (Ireland)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lieutenant General Seán Clancy is an Irish Air Corps general and current Chief of Staff of the Irish Defence Forces since 29 September 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lieutenant General"
+                },
+                {
+                  "type": "internal",
+                  "page": "Irish Air Corps"
+                },
+                {
+                  "text": "Chief of Staff",
+                  "type": "internal",
+                  "page": "Chief of Staff of the Defence Forces (Ireland)"
+                },
+                {
+                  "text": "Irish Defence Forces",
+                  "type": "internal",
+                  "page": "Defence Forces (Ireland)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Seán Clancy"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Clancy spent 16 years of his military career as a search and rescue (SAR) pilot for the Irish Air Corps, before moving up the chain of command as Chief of Air Staff (GOC Air Corps) and Defence Forces Headquarters appointments such as Director of Strategic Planning and Deputy Chief of Staff (Support).",
+              "links": [
+                {
+                  "text": "search and rescue",
+                  "type": "internal",
+                  "page": "search and rescue"
+                },
+                {
+                  "text": "GOC",
+                  "type": "internal",
+                  "page": "Chief of Staff of the Defence Forces (Ireland)",
+                  "anchor": "Brigade Commanders"
+                }
+              ]
+            },
+            {
+              "text": "Clancy has also spent a number of years on overseas deployments with the EU and UN."
+            },
+            {
+              "text": "He is the first Chief of Staff from the Air Corps branch."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Irish general",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use irish english"
+        },
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Lieutenant General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant General"
+              }
+            ]
+          },
+          "name": {
+            "text": "Seán Clancy"
+          },
+          "image": {
+            "text": "File:Brigadier General Seán Clancy, GOC Air Corps.jpg"
+          },
+          "image_size": {
+            "text": "200px"
+          },
+          "birth_place": {
+            "text": "Mitchelstown, Cork, Ireland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mitchelstown"
+              },
+              {
+                "text": "Cork",
+                "type": "internal",
+                "page": "County Cork"
+              },
+              {
+                "text": "Ireland",
+                "type": "internal",
+                "page": "Republic of Ireland"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇮🇪 Ireland",
+            "links": [
+              {
+                "text": "Ireland",
+                "type": "internal",
+                "page": "ireland"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Badge of the Irish Air Corps.svg Air Corps",
+            "links": [
+              {
+                "text": "Air Corps",
+                "type": "internal",
+                "page": "Air Corps (Ireland)"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1984–present"
+          },
+          "rank": {
+            "text": "Ireland-Army-OF-8 camo.svg Lieutenant General (OF-8)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant General"
+              },
+              {
+                "text": "OF-8",
+                "type": "internal",
+                "page": "Irish Defence Forces rank insignia"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Deputy Chief of Staff (Support) Chief of Air Staff Director of Strategic Planning"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Defence Forces mark 50 years of helicopter rescues",
+          "url": "https://www.irishtimes.com/news/ireland/irish-news/defence-forces-mark-50-years-of-helicopter-rescues-1.1608032",
+          "access-date": "26 December 2021",
+          "publisher": "The Irish Times",
+          "date": "26 November 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "The Chief of Staff",
+          "url": "https://www.military.ie/en/the-general-staff/chief-of-staff/",
+          "publisher": "Óglaigh na hÉireann (Irish Defence Forces website)",
+          "access-date": "25 December 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
