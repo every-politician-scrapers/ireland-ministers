@@ -393,31 +393,6 @@
             "text": "Dublin City University\n\nKing's Inns"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.thephoenix.ie/article/regina-doherty/",
-          "title": "Regina Doherty",
-          "work": "The Phoenix",
-          "date": "9 March 2017",
-          "access-date": "24 October 2020",
-          "archive-date": "26 October 2020",
-          "archive-url": "https://web.archive.org/web/20201026215916/https://www.thephoenix.ie/article/regina-doherty/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.oireachtas.ie/en/members/member/Regina-Doherty.D.2011-03-09/",
-          "title": "Regina Doherty",
-          "work": "Oireachtas Members Database",
-          "access-date": "27 September 2011",
-          "archive-date": "23 August 2020",
-          "archive-url": "https://web.archive.org/web/20200823153144/https://www.oireachtas.ie/en/members/member/Regina-Doherty.D.2011-03-09",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

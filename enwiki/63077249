@@ -214,31 +214,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.irishlifeandlore.com/product/norma-foley-b-1970/",
-          "title": "Norma Foley (b. 1970) - Irish Life and Lore",
-          "website": "irishlifeandlore.com",
-          "date": "February 2017",
-          "access-date": "27 July 2020",
-          "archive-date": "28 July 2020",
-          "archive-url": "https://web.archive.org/web/20200728005912/https://www.irishlifeandlore.com/product/norma-foley-b-1970/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.oireachtas.ie/en/members/member/Norma-Foley.D.2020-02-08/",
-          "title": "Norma Foley",
-          "work": "Oireachtas Members Database",
-          "access-date": "15 February 2020",
-          "archive-date": "24 June 2020",
-          "archive-url": "https://web.archive.org/web/20200624014728/https://www.oireachtas.ie/en/members/member/Norma-Foley.D.2020-02-08/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

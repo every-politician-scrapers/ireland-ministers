@@ -314,30 +314,6 @@
             "text": "jackchambers.ie"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.thejournal.ie/election-2016/candidate/223/jack-chambers/",
-          "title": "Jack Chambers",
-          "work": "TheJournal.ie",
-          "access-date": "28 February 2016",
-          "archive-date": "15 August 2018",
-          "archive-url": "https://web.archive.org/web/20180815090919/http://www.thejournal.ie/election-2016/candidate/223/jack-chambers/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.oireachtas.ie/en/members/member/Jack-Chambers.D.2016-10-03/",
-          "title": "Jack Chambers",
-          "work": "Oireachtas Members Database",
-          "access-date": "25 February 2019",
-          "archive-date": "10 July 2019",
-          "archive-url": "https://web.archive.org/web/20190710092730/https://www.oireachtas.ie/en/members/member/Jack-Chambers.D.2016-10-03/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

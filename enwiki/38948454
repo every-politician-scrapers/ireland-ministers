@@ -421,30 +421,6 @@
             "text": "Dublin City University\n\nGriffith College"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.oireachtas.ie/en/members/member/Helen-McEntee.D.2013-03-27/",
-          "title": "Helen McEntee",
-          "work": "Oireachtas Members Database",
-          "access-date": "23 January 2019",
-          "archive-date": "23 January 2019",
-          "archive-url": "https://web.archive.org/web/20190123223656/https://www.oireachtas.ie/en/members/member/Helen-McEntee.D.2013-03-27/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.electionsireland.org/candidate.cfm?ID=10039",
-          "title": "Helen McEntee",
-          "work": "ElectionsIreland.org",
-          "access-date": "28 March 2013",
-          "archive-date": "4 October 2013",
-          "archive-url": "https://web.archive.org/web/20131004020154/http://www.electionsireland.org/candidate.cfm?ID=10039",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

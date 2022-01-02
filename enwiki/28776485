@@ -339,67 +339,6 @@
             "text": "simonharris.ie"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Frances Fitzgerald is Tánaiste in new Cabinet",
-          "date": "6 May 2016",
-          "url": "http://www.rte.ie/news/2016/0506/786692-cabinet-announcements/",
-          "publisher": "RTÉ News",
-          "access-date": "7 May 2016",
-          "archive-date": "7 May 2016",
-          "archive-url": "https://web.archive.org/web/20160507135854/http://www.rte.ie/news/2016/0506/786692-cabinet-announcements/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://9thlevel.ie/#/article/120773",
-          "title": "Simon Harris Becomes Minister for Higher Education, Innovation and Research",
-          "website": "9thlevel.ie",
-          "date": "27 June 2020",
-          "access-date": "28 June 2020",
-          "archive-date": "28 June 2020",
-          "archive-url": "https://web.archive.org/web/20200628003820/http://9thlevel.ie/#/article/120773",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.oireachtas.ie/en/members/member/Simon-Harris.D.2011-03-09/",
-          "title": "Simon Harris",
-          "work": "Oireachtas Members Database",
-          "access-date": "20 October 2011",
-          "archive-date": "4 May 2019",
-          "archive-url": "https://web.archive.org/web/20190504002137/https://www.oireachtas.ie/en/members/member/Simon-Harris.D.2011-03-09",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Collins",
-          "first": "Stephen",
-          "author-link": "Stephen Collins (journalist)",
-          "title": "Nealon's Guide to the 31st Dáil and 24th Seanad",
-          "year": "2011",
-          "publisher": "Gill & Macmillan",
-          "location": "Dublin",
-          "page": "185",
-          "isbn": "9780717150595",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "url": "http://electionsireland.org/candidate.cfm?ID=9483",
-          "title": "Simon Harris",
-          "work": "ElectionsIreland.org",
-          "access-date": "20 October 2011",
-          "archive-date": "12 June 2018",
-          "archive-url": "https://web.archive.org/web/20180612163348/https://electionsireland.org/candidate.cfm?ID=9483",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

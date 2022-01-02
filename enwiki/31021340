@@ -282,27 +282,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "author": "Tim Ryan",
-          "date": "2020",
-          "title": "Nealon's Guide to the 33rd Dáil and 26th Seanad and the 2019 Local and European Elections",
-          "publisher": "Grand Canal Publishing",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "url": "https://www.oireachtas.ie/en/members/member/Charlie-McConalogue.D.2011-03-09/",
-          "title": "Charlie McConalogue",
-          "work": "Oireachtas Members Database",
-          "access-date": "20 March 2011",
-          "archive-date": "5 August 2018",
-          "archive-url": "https://web.archive.org/web/20180805203132/https://www.oireachtas.ie/en/members/member/Charlie-McConalogue.D.2011-03-09/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

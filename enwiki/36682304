@@ -246,55 +246,6 @@
             "text": "University of Exeter\n\nUniversity of Bath"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.centralbank.ie/about/who-we-are/our-senior-team-bios/bios",
-          "title": "Our Senior Team – Bios",
-          "publisher": "Central Bank of Ireland",
-          "access-date": "16 November 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "newspaper": "The Irish Times",
-          "title": "Who is Gabriel Makhlouf, Central Bank governor in waiting?",
-          "url": "https://www.irishtimes.com/business/economy/who-is-gabriel-makhlouf-central-bank-governor-in-waiting-1.3939189",
-          "date": "27 June 2019",
-          "access-date": "16 November 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "ECB raised concerns over new Central Bank of Ireland boss",
-          "author": "Fiach Kelly",
-          "date": "29 July 2019",
-          "newspaper": "The Irish Times",
-          "url": "https://www.irishtimes.com/news/ireland/irish-news/ecb-raised-concerns-over-new-central-bank-of-ireland-boss-1.3970083",
-          "access-date": "16 November 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.ft.com/content/86bdebac-5a1e-11ea-abe5-8e03987b7b20",
-          "url-access": "subscription",
-          "title": "Ireland’s central banker warns on homes spending spree",
-          "work": "Financial Times",
-          "date": "1 March 2020",
-          "access-date": "2 March 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "newspaper": "The Telegraph",
-          "title": "The only Briton at the ECB table: Who is Gabriel Makhlouf, the new governor of the Irish Central Bank?",
-          "author": "Harriet Russell",
-          "date": "2 September 2019",
-          "url": "https://www.telegraph.co.uk/business/2019/09/02/brit-ecb-table-gabriel-makhlouf-new-governor-irish-central-bank/",
-          "access-date": "16 November 2019",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

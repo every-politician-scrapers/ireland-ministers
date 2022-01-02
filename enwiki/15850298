@@ -556,25 +556,6 @@
             "text": "patthecope.com"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.oireachtas.ie/en/members/member/Pat-the-Cope-Gallagher.D.1981-06-30/",
-          "title": "Pat The Cope Gallagher",
-          "work": "Oireachtas Members Database",
-          "access-date": "11 January 2019",
-          "archive-date": "11 January 2019",
-          "archive-url": "https://web.archive.org/web/20190111121701/https://www.oireachtas.ie/en/members/member/Pat-the-Cope-Gallagher.D.1981-06-30/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
