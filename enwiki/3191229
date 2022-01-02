@@ -509,54 +509,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.rte.ie/news/2010/0707/civilpartnership.html",
-          "title": "Three FF Senators relinquish party whip",
-          "work": "RTÉ News",
-          "date": "7 July 2010",
-          "access-date": "7 July 2010",
-          "archive-date": "10 July 2010",
-          "archive-url": "https://web.archive.org/web/20100710090853/http://www.rte.ie/news/2010/0707/civilpartnership.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.rte.ie/news/2011/0601/seanad.html",
-          "title": "Seanad Leas Chathaoirleach elected",
-          "work": "RTÉ News",
-          "date": "2 June 2011",
-          "access-date": "4 June 2011",
-          "archive-date": "3 June 2011",
-          "archive-url": "https://web.archive.org/web/20110603084113/http://www.rte.ie/news/2011/0601/seanad.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.oireachtas.ie/en/members/member/Denis-O'Donovan.S.1989-10-01/",
-          "title": "Denis O'Donovan",
-          "work": "Oireachtas Members Database",
-          "access-date": "20 February 2010",
-          "archive-date": "16 June 2018",
-          "archive-url": "https://web.archive.org/web/20180616030123/https://www.oireachtas.ie/en/members/member/Denis-O'Donovan.S.1989-10-01/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.electionsireland.org/candidate.cfm?ID=3604",
-          "title": "Denis O'Donovan",
-          "work": "ElectionsIreland.org",
-          "access-date": "20 February 2010",
-          "archive-date": "20 May 2009",
-          "archive-url": "https://web.archive.org/web/20090520010103/http://electionsireland.org/candidate.cfm?id=3604",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

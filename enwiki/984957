@@ -386,30 +386,6 @@
             "text": "eamonryan.ie"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.irishtimes.com/election-2016/dublin-bay-south",
-          "title": "Dublin Bay South constituency",
-          "website": "The Irish Times",
-          "access-date": "1 March 2016",
-          "archive-date": "1 March 2016",
-          "archive-url": "https://web.archive.org/web/20160301090137/http://www.irishtimes.com/election-2016/dublin-bay-south",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.oireachtas.ie/en/members/member/Eamon-Ryan.D.2002-06-06/",
-          "title": "Eamon Ryan",
-          "work": "Oireachtas Members Database",
-          "access-date": "10 February 2019",
-          "archive-date": "12 February 2019",
-          "archive-url": "https://web.archive.org/web/20190212011652/https://www.oireachtas.ie/en/members/member/Eamon-Ryan.D.2002-06-06/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

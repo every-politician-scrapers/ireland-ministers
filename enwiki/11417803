@@ -210,30 +210,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.oireachtas.ie/en/members/member/Michael-McGrath.D.2007-06-14/",
-          "title": "Michael McGrath",
-          "work": "Oireachtas Members Database",
-          "access-date": "13 June 2009",
-          "archive-date": "15 June 2018",
-          "archive-url": "https://web.archive.org/web/20180615214554/https://www.oireachtas.ie/en/members/member/Michael-McGrath.D.2007-06-14/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.electionsireland.org/candidate.cfm?ID=8563",
-          "title": "Michael McGrath",
-          "work": "ElectionsIreland.org",
-          "access-date": "13 June 2009",
-          "archive-date": "20 May 2009",
-          "archive-url": "https://web.archive.org/web/20090520085229/http://electionsireland.org/candidate.cfm?id=8563",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

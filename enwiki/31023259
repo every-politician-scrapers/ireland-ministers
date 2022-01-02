@@ -466,32 +466,6 @@
             "text": "heatherhumphreys.ie"
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Collins",
-          "first": "Stephen",
-          "author-link": "Stephen Collins (journalist)",
-          "title": "Nealon's Guide to the 31st Dáil and 24th Seanad",
-          "year": "2011",
-          "publisher": "Gill & Macmillan",
-          "location": "Dublin",
-          "isbn": "9780717150595",
-          "page": "27",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "url": "https://www.oireachtas.ie/en/members/member/Heather-Humphreys.D.2011-03-09/",
-          "title": "Heather Humphreys",
-          "work": "Oireachtas Members Database",
-          "access-date": "8 March 2011",
-          "archive-date": "23 August 2020",
-          "archive-url": "https://web.archive.org/web/20200823142913/https://www.oireachtas.ie/en/members/member/Heather-Humphreys.D.2011-03-09",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
