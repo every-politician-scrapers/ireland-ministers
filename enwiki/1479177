@@ -207,7 +207,7 @@
       ],
       "templates": [
         {
-          "description": "Irish Fine Gael politician",
+          "description": "Irish politician",
           "template": "short description"
         },
         {
@@ -313,13 +313,25 @@
             ]
           },
           "taoiseach1": {
-            "text": "Micheál Martin"
+            "text": "Micheál Martin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Micheál Martin"
+              }
+            ]
           },
           "term_start1": {
             "text": "27 June 2020"
           },
           "predecessor1": {
-            "text": "Leo Varadkar"
+            "text": "Leo Varadkar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leo Varadkar"
+              }
+            ]
           },
           "taoiseach2": {
             "text": "Enda Kenny",
@@ -337,10 +349,22 @@
             "text": "6 May 2016"
           },
           "predecessor2": {
-            "text": "Enda Kenny"
+            "text": "Enda Kenny",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Enda Kenny"
+              }
+            ]
           },
           "successor2": {
-            "text": "Enda Kenny"
+            "text": "Enda Kenny",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Enda Kenny"
+              }
+            ]
           },
           "office3": {
             "text": "Deputy Leader of Fine Gael",
@@ -348,13 +372,18 @@
               {
                 "text": "Deputy Leader of Fine Gael",
                 "type": "internal",
-                "page": "Leader of Fine Gael",
-                "anchor": "Deputy leaders"
+                "page": "Leader of Fine Gael"
               }
             ]
           },
           "leader3": {
-            "text": "Leo Varadkar"
+            "text": "Leo Varadkar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leo Varadkar"
+              }
+            ]
           },
           "term_start3": {
             "text": "13 June 2017"
@@ -379,7 +408,13 @@
             ]
           },
           "taoiseach4": {
-            "text": "Leo Varadkar"
+            "text": "Leo Varadkar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leo Varadkar"
+              }
+            ]
           },
           "term_start4": {
             "text": "30 November 2017"
@@ -398,7 +433,13 @@
             ]
           },
           "successor4": {
-            "text": "Leo Varadkar"
+            "text": "Leo Varadkar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leo Varadkar"
+              }
+            ]
           },
           "office5": {
             "text": "Minister for Housing, Planning, Community and Local Government",
@@ -411,7 +452,13 @@
             ]
           },
           "taoiseach5": {
-            "text": "Enda Kenny"
+            "text": "Enda Kenny",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Enda Kenny"
+              }
+            ]
           },
           "term_start5": {
             "text": "6 May 2016"
@@ -448,7 +495,13 @@
             ]
           },
           "taoiseach6": {
-            "text": "Enda Kenny"
+            "text": "Enda Kenny",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Enda Kenny"
+              }
+            ]
           },
           "term_start6": {
             "text": "9 March 2011"
