@@ -98,8 +98,11 @@
           "template": "use dmy dates"
         },
         {
-          "text": "the footballer Éamonn Ryan",
-          "template": "distinguish"
+          "list": [
+            "the footballer",
+            "Éamonn Ryan"
+          ],
+          "template": "for"
         },
         {
           "list": [
