@@ -19,12 +19,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
-        <link href="/static/_reboot/bootstrap/bootstrap.min.css?build=c632807" rel="stylesheet" />
+        <link href="/static/_reboot/bootstrap/bootstrap.min.css?build=50a837a" rel="stylesheet" />
         <link href="/static/_reboot/fontawesome/all.css" rel="stylesheet" />
-        <!-- <link href="/static/_reboot/_reboot_app/css/fonts.css?build=c632807" rel="stylesheet" /> -->
-        <link href="/static/_reboot/_reboot_app/css/style.css?build=c632807" rel="stylesheet" />
-        <link href="/static/_reboot/_reboot_app/img/favicon.png?build=c632807" rel="shortcut icon" />
-        <link href="/static/_reboot/jquery/jquery-ui.min.css?build=c632807" rel="stylesheet" />
+        <!-- <link href="/static/_reboot/_reboot_app/css/fonts.css?build=50a837a" rel="stylesheet" /> -->
+        <link href="/static/_reboot/_reboot_app/css/style.css?build=50a837a" rel="stylesheet" />
+        <link href="/static/_reboot/_reboot_app/img/favicon.png?build=50a837a" rel="shortcut icon" />
+        <link href="/static/_reboot/jquery/jquery-ui.min.css?build=50a837a" rel="stylesheet" />
         
         <!-- PAGE META -->
         <title>gov.ie - Government Ministers</title>
@@ -36,8 +36,8 @@
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
-            <script src="/static/_reboot/bootstrap/html5shiv.min.js?build=c632807"></script>
-            <script src="/static/_reboot/bootstrap/respond.min.js?build=c632807"></script>
+            <script src="/static/_reboot/bootstrap/html5shiv.min.js?build=50a837a"></script>
+            <script src="/static/_reboot/bootstrap/respond.min.js?build=50a837a"></script>
         <![endif]-->
         <script src="/static/_reboot/jquery/jquery.min.js" type="text/javascript"></script>
         <script src="/static/_reboot/jquery/jquery-ui.min.js" type="text/javascript"></script>
@@ -55,7 +55,13 @@
             };
 
             function site_layer(){
-                return window.dataLayer[0] || {};
+                if (window.dataLayer === undefined){
+                    return {};
+                };
+                if (window.dataLayer.length === 0){
+                    return {};
+                };
+                return window.dataLayer[0];
             };
 
             function link_click_tracking(){
@@ -368,8 +374,6 @@
         
 
         
-
-        
             
             
             <p>Last updated on <time datetime="2021-11-10">10 November 2021</time></p>
@@ -610,7 +614,7 @@
     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 collapse" id="FeedbackV2Widget">
 
         <form action="#" method="POST" rfw-form>
-            <input type="hidden" name="csrfmiddlewaretoken" value="T1XD3NxKOXp3s6TRrbOnbHaFD4deo0kG8TmiGwI71KYEqTGc66M0NSn3IAGyrQCi">
+            <input type="hidden" name="csrfmiddlewaretoken" value="jRZKrwBGLjOIZUgUTlRkTlt0ryJiZPTksbfRir1haEsFr4gaY3kAMrhLi3M00RJI">
             <input type="hidden" name="value" value="false" />
             <input type="hidden" name="item_type" value="organisation_information" />
             <input type="hidden" name="item_id" value="4802" />
@@ -821,12 +825,12 @@
         </script>
 
         <script src="/static/_reboot/bootstrap/bootstrap.min.js" type="text/javascript"></script>
-        <script src="/static/_reboot/google_maps/markerclusterer.js?build=c632807"></script>
+        <script src="/static/_reboot/google_maps/markerclusterer.js?build=50a837a"></script>
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqOEBZm1B3AbHq-FAD-TCxXqhKgjxJHWU"></script>
-        <script src="/static/_reboot/_reboot_app/js/app.js?build=c632807" type="text/javascript"></script>
-        <script src="/static/_reboot/google_maps/app.js?build=c632807" type="text/javascript"></script>
-        <script src="/static/_reboot/_reboot_app/js/feedback_v2.js?build=c632807" type="text/javascript"></script>
-        <script src="/static/_reboot/_reboot_app/js/select_menu_v2.js?build=c632807" type="text/javascript"></script>
+        <script src="/static/_reboot/_reboot_app/js/app.js?build=50a837a" type="text/javascript"></script>
+        <script src="/static/_reboot/google_maps/app.js?build=50a837a" type="text/javascript"></script>
+        <script src="/static/_reboot/_reboot_app/js/feedback_v2.js?build=50a837a" type="text/javascript"></script>
+        <script src="/static/_reboot/_reboot_app/js/select_menu_v2.js?build=50a837a" type="text/javascript"></script>
 
         
     </body>
