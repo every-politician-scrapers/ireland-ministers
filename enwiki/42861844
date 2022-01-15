@@ -12,7 +12,7 @@
     "LGBT politicians from Ireland",
     "Politicians from Dublin (city)",
     "Politicians from Fingal",
-    "1983 births",
+    "1981 births",
     "Members of the 33rd Dáil"
   ],
   "sections": [
@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Roderic O'Gorman (born 12 December 1982) is an Irish Green Party politician who has served as Minister for Children, Equality, Disability, Integration and Youth since June 2020.",
+              "text": "Roderic O'Gorman (born 12 December 1981) is an Irish Green Party politician who has served as Minister for Children, Equality, Disability, Integration and Youth since June 2020.",
               "links": [
                 {
                   "text": "Green Party",
@@ -87,7 +87,7 @@
           "template": "use dmy dates"
         },
         {
-          "year": "1982",
+          "year": "1981",
           "month": "12",
           "day": "12",
           "df": "y",
@@ -179,7 +179,7 @@
             ]
           },
           "birth_date": {
-            "text": "December 12, 1982"
+            "text": "December 12, 1981"
           },
           "birth_place": {
             "text": "Mulhuddart, Dublin, Ireland",
