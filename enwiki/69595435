@@ -5,7 +5,8 @@
     "Irish military personnel",
     "Irish generals",
     "Chiefs of Staff of the Defence Forces (Ireland)",
-    "Living people"
+    "Living people",
+    "Year of birth missing (living people)"
   ],
   "sections": [
     {
@@ -78,7 +79,7 @@
         },
         {
           "date": "December 2021",
-          "template": "use irish english"
+          "template": "use hiberno-english"
         },
         {
           "date": "December 2021",
