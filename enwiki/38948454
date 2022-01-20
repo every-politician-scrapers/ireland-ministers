@@ -231,7 +231,7 @@
           "caption": {
             "text": "McEntee in 2018"
           },
-          "office1": {
+          "office": {
             "text": "Minister for Justice",
             "links": [
               {
@@ -241,7 +241,7 @@
               }
             ]
           },
-          "taoiseach1": {
+          "taoiseach": {
             "text": "Micheál Martin",
             "links": [
               {
@@ -250,10 +250,10 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start": {
             "text": "27 June 2020"
           },
-          "predecessor1": {
+          "predecessor": {
             "text": "Charles Flanagan",
             "links": [
               {
@@ -262,46 +262,7 @@
               }
             ]
           },
-          "office2": {
-            "text": "Minister of State",
-            "links": [
-              {
-                "text": "Minister of State",
-                "type": "internal",
-                "page": "Minister of State (Ireland)"
-              }
-            ]
-          },
-          "subterm2": {
-            "text": "2017–2020"
-          },
-          "suboffice2": {
-            "text": "Taoiseach",
-            "links": [
-              {
-                "text": "Taoiseach",
-                "type": "internal",
-                "page": "Minister of State at the Department of the Taoiseach"
-              }
-            ]
-          },
-          "subterm3": {
-            "text": "2017–2020"
-          },
-          "suboffice3": {
-            "text": "Foreign Affairs and Trade",
-            "links": [
-              {
-                "text": "Foreign Affairs and Trade",
-                "type": "internal",
-                "page": "Minister of State at the Department of Foreign Affairs"
-              }
-            ]
-          },
-          "subterm4": {
-            "text": "2017–2020"
-          },
-          "suboffice4": {
+          "office1": {
             "text": "Minister of State for European Affairs",
             "links": [
               {
@@ -310,20 +271,144 @@
               }
             ]
           },
-          "subterm5": {
-            "text": "2016–2017"
+          "term_start1": {
+            "text": "20 June 2017"
           },
-          "suboffice5": {
-            "text": "Health",
+          "term_end1": {
+            "text": "27 June 2020"
+          },
+          "taoiseach1": {
+            "text": "Leo Varadkar",
             "links": [
               {
-                "text": "Health",
+                "type": "internal",
+                "page": "Leo Varadkar"
+              }
+            ]
+          },
+          "1blankname1": {
+            "text": "Department"
+          },
+          "1namedata1": {
+            "text": "Department of the Taoiseach\nDepartment of Foreign Affairs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Department of the Taoiseach"
+              },
+              {
+                "text": "Department of Foreign Affairs",
+                "type": "internal",
+                "page": "Department of Foreign Affairs (Ireland)"
+              }
+            ]
+          },
+          "2blankname1": {
+            "text": "Minister"
+          },
+          "2namedata1": {
+            "text": "Leo Varadkar\nSimon Coveney",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leo Varadkar"
+              },
+              {
+                "type": "internal",
+                "page": "Simon Coveney"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Dara Murphy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dara Murphy"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Thomas Byrne",
+            "links": [
+              {
+                "text": "Thomas Byrne",
+                "type": "internal",
+                "page": "Thomas Byrne (Meath politician)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of State for Mental Health and Older People",
+            "links": [
+              {
+                "text": "Minister of State for Mental Health and Older People",
                 "type": "internal",
                 "page": "Minister of State at the Department of Health"
               }
             ]
           },
-          "office6": {
+          "term_start2": {
+            "text": "19 May 2016"
+          },
+          "term_end2": {
+            "text": "14 June 2017"
+          },
+          "taoisech2": {
+            "text": "Enda Kenny",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Enda Kenny"
+              }
+            ]
+          },
+          "1blankname2": {
+            "text": "Department"
+          },
+          "1namedata2": {
+            "text": "Department of Health",
+            "links": [
+              {
+                "text": "Department of Health",
+                "type": "internal",
+                "page": "Department of Health (Ireland)"
+              }
+            ]
+          },
+          "2blankname2": {
+            "text": "Minister"
+          },
+          "2namedata2": {
+            "text": "Simon Harris",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Simon Harris"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Kathleen Lynch (Primary Care, Mental Health and Disability)",
+            "links": [
+              {
+                "text": "Kathleen Lynch",
+                "type": "internal",
+                "page": "Kathleen Lynch (politician)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Jim Daly",
+            "links": [
+              {
+                "text": "Jim Daly",
+                "type": "internal",
+                "page": "Jim Daly (politician)"
+              }
+            ]
+          },
+          "office5": {
             "text": "Teachta Dála",
             "links": [
               {
@@ -332,7 +417,7 @@
               }
             ]
           },
-          "term_start6": {
+          "term_start5": {
             "text": "March 2013",
             "links": [
               {
@@ -342,7 +427,7 @@
               }
             ]
           },
-          "constituency6": {
+          "constituency5": {
             "text": "Meath East",
             "links": [
               {
@@ -419,6 +504,16 @@
           },
           "alma_mater": {
             "text": "Dublin City University\n\nGriffith College"
+          },
+          "website": {
+            "text": "Personal page on Fine Gael website",
+            "links": [
+              {
+                "text": "Personal page on Fine Gael website",
+                "type": "external",
+                "site": "https://www.finegael.ie/our-people/ministers/meath-east/helen-mcentee/"
+              }
+            ]
           }
         }
       ]
