@@ -50,6 +50,14 @@
       ],
       "templates": [
         {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "February 2022",
+          "template": "use irish english"
+        },
+        {
           "year": "1957",
           "month": "10",
           "day": "25",
