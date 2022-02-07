@@ -79,6 +79,14 @@
       ],
       "templates": [
         {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "February 2022",
+          "template": "use hiberno-english"
+        },
+        {
           "list": [
             "Bertie Ahern",
             "Brian Cowen"
