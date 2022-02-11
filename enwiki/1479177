@@ -32,7 +32,7 @@
         {
           "sentences": [
             {
-              "text": "Simon Coveney (born 16 June 1972) is an Irish Fine Gael politician who has served as Minister for Foreign Affairs and Minister for Defence since June 2020 and Deputy Leader of Fine Gael since June 2017.",
+              "text": "Simon Coveney (born 16 June 1972) is an Irish Fine Gael politician who has served as Minister for Foreign Affairs and Deputy Leader of Fine Gael since 2017 and Minister for Defence since 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -44,15 +44,15 @@
                   "page": "Minister for Foreign Affairs (Ireland)"
                 },
                 {
-                  "text": "Minister for Defence",
-                  "type": "internal",
-                  "page": "Minister for Defence (Ireland)"
-                },
-                {
                   "text": "Deputy Leader of Fine Gael",
                   "type": "internal",
                   "page": "Leader of Fine Gael",
                   "anchor": "Deputy leaders"
+                },
+                {
+                  "text": "Minister for Defence",
+                  "type": "internal",
+                  "page": "Minister for Defence (Ireland)"
                 }
               ],
               "formatting": {
