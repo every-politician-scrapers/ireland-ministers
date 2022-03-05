@@ -50,6 +50,10 @@
       ],
       "templates": [
         {
+          "description": "Chief Justice of Ireland since 2021",
+          "template": "short description"
+        },
+        {
           "date": "February 2022",
           "template": "use dmy dates"
         },
