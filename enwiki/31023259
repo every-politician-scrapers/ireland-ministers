@@ -1,472 +1,55 @@
 {
-  "title": "Heather Humphreys",
-  "pageID": 31023259,
-  "categories": [
-    "1963 births",
-    "Living people",
-    "Alumni of NUI Galway",
-    "Women government ministers of the Republic of Ireland",
-    "Fine Gael TDs",
-    "Irish Presbyterians",
-    "Local councillors in County Monaghan",
-    "Members of the 31st Dáil",
-    "Members of the 32nd Dáil",
-    "21st-century women Teachtaí Dála",
-    "Members of the 33rd Dáil",
-    "Ministers for Social Affairs (Ireland)",
-    "Ministers for Enterprise, Trade and Employment",
-    "Female justice ministers",
-    "Ministers for Justice (Ireland)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Heather Humphreys (born 14 May 1963) is an Irish Fine Gael politician who has served as Minister for Rural and Community Development and Minister for Social Protection since June 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Fine Gael"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister for Rural and Community Development"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister for Social Protection"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Heather Humphreys"
-                ]
-              }
-            },
-            {
-              "text": "She has been a Teachta Dála (TD) for the Cavan–Monaghan constituency since 2011.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Teachta Dála"
-                },
-                {
-                  "text": "Cavan–Monaghan",
-                  "type": "internal",
-                  "page": "Cavan–Monaghan (Dáil constituency)"
-                }
-              ]
-            },
-            {
-              "text": "She previously served as Minister for Justice from April to November 2021, Minister for Business, Enterprise and Innovation from 2017 to 2020, Minister for Culture, Heritage and the Gaeltacht from June 2017 to November 2017, Minister for Arts, Heritage, Regional, Rural and Gaeltacht Affairs from 2016 to 2017 and Minister for Arts, Heritage and the Gaeltacht from 2014 to 2016.",
-              "links": [
-                {
-                  "text": "Minister for Justice",
-                  "type": "internal",
-                  "page": "Minister for Justice (Ireland)"
-                },
-                {
-                  "text": "Minister for Business, Enterprise and Innovation",
-                  "type": "internal",
-                  "page": "Minister for Enterprise, Trade and Employment"
-                },
-                {
-                  "text": "Minister for Culture, Heritage and the Gaeltacht",
-                  "type": "internal",
-                  "page": "Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media"
-                },
-                {
-                  "text": "Minister for Arts, Heritage, Regional, Rural and Gaeltacht Affairs",
-                  "type": "internal",
-                  "page": "Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media "
-                },
-                {
-                  "text": "Minister for Arts, Heritage and the Gaeltacht",
-                  "type": "internal",
-                  "page": "Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Irish Fine Gael politician",
-          "template": "short description"
-        },
-        {
-          "date": "May 2016",
-          "template": "use hiberno-english"
-        },
-        {
-          "date": "June 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Other Government Ministries"
-          ],
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "year": "1963",
-          "month": "5",
-          "day": "14",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Heather Humphreys"
-          },
-          "honorific-suffix": {
-            "text": "TD",
-            "links": [
-              {
-                "text": "TD",
-                "type": "internal",
-                "page": "Teachta Dála"
-              }
-            ]
-          },
-          "image": {
-            "text": "Heather Humphreys 2016.jpg"
-          },
-          "office": {
-            "text": "Minister for Social Protection",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister for Social Protection"
-              }
-            ]
-          },
-          "taoiseach": {
-            "text": "Micheál Martin"
-          },
-          "term_start": {
-            "text": "27 June 2020"
-          },
-          "predecessor": {
-            "text": "Regina Doherty",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Regina Doherty"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister for Rural and Community Development",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister for Rural and Community Development"
-              }
-            ]
-          },
-          "taoiseach1": {
-            "text": "Micheál Martin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Micheál Martin"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "27 June 2020"
-          },
-          "predecessor1": {
-            "text": "Michael Ring",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Michael Ring"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister for Justice",
-            "links": [
-              {
-                "text": "Minister for Justice",
-                "type": "internal",
-                "page": "Minister for Justice (Ireland)"
-              }
-            ]
-          },
-          "taoiseach2": {
-            "text": "Micheál Martin"
-          },
-          "term_start2": {
-            "text": "27 April 2021"
-          },
-          "term_end2": {
-            "text": "1 November 2021"
-          },
-          "predecessor2": {
-            "text": "Helen McEntee",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Helen McEntee"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Helen McEntee"
-          },
-          "office3": {
-            "text": "Minister for Business, Enterprise and Innovation",
-            "links": [
-              {
-                "text": "Minister for Business, Enterprise and Innovation",
-                "type": "internal",
-                "page": "Minister for Enterprise, Trade and Employment"
-              }
-            ]
-          },
-          "taoiseach3": {
-            "text": "Leo Varadkar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Leo Varadkar"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "30 November 2017"
-          },
-          "term_end3": {
-            "text": "27 June 2020"
-          },
-          "predecessor3": {
-            "text": "Frances Fitzgerald",
-            "links": [
-              {
-                "text": "Frances Fitzgerald",
-                "type": "internal",
-                "page": "Frances Fitzgerald (politician)"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Leo Varadkar (Enterprise, Trade and Employment)"
-          },
-          "office4": {
-            "text": "Minister for Culture, Heritage and the Gaeltacht",
-            "links": [
-              {
-                "text": "Minister for Culture, Heritage and the Gaeltacht",
-                "type": "internal",
-                "page": "Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media"
-              }
-            ]
-          },
-          "taoiseach4": {
-            "text": "Leo Varadkar"
-          },
-          "term_start4": {
-            "text": "14 June 2017"
-          },
-          "term_end4": {
-            "text": "30 November 2017"
-          },
-          "predecessor4": {
-            "text": "Herself (under old title)",
-            "formatting": {
-              "italic": [
-                "Herself (under old title)"
-              ]
-            }
-          },
-          "successor4": {
-            "text": "Josepha Madigan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Josepha Madigan"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister for Arts, Heritage, Regional, Rural and Gaeltacht Affairs",
-            "links": [
-              {
-                "text": "Minister for Arts, Heritage, Regional, Rural and Gaeltacht Affairs",
-                "type": "internal",
-                "page": "Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media"
-              }
-            ]
-          },
-          "taoiseach5": {
-            "text": "Enda Kenny",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Enda Kenny"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "6 May 2016"
-          },
-          "term_end5": {
-            "text": "14 June 2017"
-          },
-          "predecessor5": {
-            "text": "Herself (under old title)",
-            "formatting": {
-              "italic": [
-                "Herself (under old title)"
-              ]
-            }
-          },
-          "successor5": {
-            "text": "Herself (with new title)",
-            "formatting": {
-              "italic": [
-                "Herself (with new title)"
-              ]
-            }
-          },
-          "office6": {
-            "text": "Minister for Arts, Heritage and the Gaeltacht",
-            "links": [
-              {
-                "text": "Minister for Arts, Heritage and the Gaeltacht",
-                "type": "internal",
-                "page": "Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media"
-              }
-            ]
-          },
-          "taoiseach6": {
-            "text": "Enda Kenny"
-          },
-          "term_start6": {
-            "text": "11 July 2014"
-          },
-          "term_end6": {
-            "text": "6 May 2016"
-          },
-          "predecessor6": {
-            "text": "Jimmy Deenihan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jimmy Deenihan"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Herself (with new title)",
-            "formatting": {
-              "italic": [
-                "Herself (with new title)"
-              ]
-            }
-          },
-          "office7": {
-            "text": "Teachta Dála",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Teachta Dála"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "February 2011",
-            "links": [
-              {
-                "text": "February 2011",
-                "type": "internal",
-                "page": "2011 Irish general election"
-              }
-            ]
-          },
-          "constituency7": {
-            "text": "Cavan–Monaghan",
-            "links": [
-              {
-                "text": "Cavan–Monaghan",
-                "type": "internal",
-                "page": "Cavan–Monaghan (Dáil constituency)"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Heather Stewart"
-          },
-          "birth_date": {
-            "text": "May 14, 1963"
-          },
-          "birth_place": {
-            "text": "Drum, County Monaghan, Ireland",
-            "links": [
-              {
-                "text": "Drum",
-                "type": "internal",
-                "page": "Drum, County Monaghan"
-              },
-              {
-                "type": "internal",
-                "page": "County Monaghan"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Irish",
-            "links": [
-              {
-                "text": "Irish",
-                "type": "internal",
-                "page": "Irish people"
-              }
-            ]
-          },
-          "party": {
-            "text": "Fine Gael",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fine Gael"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Eric Humphreys (m. 1996)"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "alma_mater": {
-            "text": "NUI Galway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "NUI Galway"
-              }
-            ]
-          },
-          "website": {
-            "text": "heatherhumphreys.ie"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Heather Humphreys",
+  "honorific-suffix": "TD",
+  "image": "Heather Humphreys 2016.jpg",
+  "office": "Minister for Social Protection",
+  "taoiseach": "Micheál Martin",
+  "term_start": "27 June 2020",
+  "predecessor": "Regina Doherty",
+  "office1": "Minister for Rural and Community Development",
+  "taoiseach1": "Micheál Martin",
+  "term_start1": "27 June 2020",
+  "predecessor1": "Michael Ring",
+  "office2": "Minister for Justice",
+  "taoiseach2": "Micheál Martin",
+  "term_start2": "27 April 2021",
+  "term_end2": "1 November 2021",
+  "predecessor2": "Helen McEntee",
+  "successor2": "Helen McEntee",
+  "office3": "Minister for Business, Enterprise and Innovation",
+  "taoiseach3": "Leo Varadkar",
+  "term_start3": "30 November 2017",
+  "term_end3": "27 June 2020",
+  "predecessor3": "Frances Fitzgerald",
+  "successor3": "Leo Varadkar (Enterprise, Trade and Employment)",
+  "office4": "Minister for Culture, Heritage and the Gaeltacht",
+  "taoiseach4": "Leo Varadkar",
+  "term_start4": "14 June 2017",
+  "term_end4": "30 November 2017",
+  "predecessor4": "Herself (under old title)",
+  "successor4": "Josepha Madigan",
+  "office5": "Minister for Arts, Heritage, Regional, Rural and Gaeltacht Affairs",
+  "taoiseach5": "Enda Kenny",
+  "term_start5": "6 May 2016",
+  "term_end5": "14 June 2017",
+  "predecessor5": "Herself (under old title)",
+  "successor5": "Herself (with new title)",
+  "office6": "Minister for Arts, Heritage and the Gaeltacht",
+  "taoiseach6": "Enda Kenny",
+  "term_start6": "11 July 2014",
+  "term_end6": "6 May 2016",
+  "predecessor6": "Jimmy Deenihan",
+  "successor6": "Herself (with new title)",
+  "office7": "Teachta Dála",
+  "term_start7": "February 2011",
+  "constituency7": "Cavan–Monaghan",
+  "birth_name": "Heather Stewart",
+  "birth_date": "May 14, 1963",
+  "birth_place": "Drum, County Monaghan, Ireland",
+  "nationality": "Irish",
+  "party": "Fine Gael",
+  "spouse": "Eric Humphreys (m. 1996)",
+  "children": "2",
+  "alma_mater": "NUI Galway",
+  "website": "heatherhumphreys.ie"
 }
