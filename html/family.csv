@@ -1,6 +1,7 @@
 id,name,relationship,relative,relativename
 Q1111220,David Andrews,child,Q3777503,Barry Andrews
 Q1111220,David Andrews,child,Q5237464,David McSavage
+Q13157830,Stephen Donnelly,spouse,Q111495702,Susan Leavy
 Q1410728,Noel Ahern,sibling,Q154550,Bertie Ahern
 Q1410728,Noel Ahern,sibling,Q1911246,Maurice Ahern
 Q154550,Bertie Ahern,child,Q11971868,Georgina Byrne
@@ -93,6 +94,7 @@ Q888438,Bobby Aylward,sibling,Q1822660,Liam Aylward
 Q912430,"Brian Lenihan, Jnr",father,Q912542,Brian Lenihan Snr
 Q912430,"Brian Lenihan, Jnr",relative,Q52325325,Feargal O'Rourke
 Q912430,"Brian Lenihan, Jnr",sibling,Q5162247,Conor Lenihan
+Q920403,Micheál Martin,child,Q82105313,Micheál Aodh Martin
 Q954374,"Edward Haughey, Baron Ballyedmond",child,Q76260664,Caroline Haughey
 Q954374,"Edward Haughey, Baron Ballyedmond",child,Q76260665,Edward Haughey
 Q954374,"Edward Haughey, Baron Ballyedmond",child,Q76260666,James Haughey
