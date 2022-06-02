@@ -1,0 +1,27 @@
+@@,item,name,positionitem,position,start,end
+->,Q251902,Angel Serafin Seriche Dugan,Q2351213,Prime Minister,1996-04-11->1996-03-25,2001-03-04->2001-02-23
+->,Q112128529,Antonio Fernando Nve Ngu,Q111021199,Education and Science,2003-02-11->2001-03-09,2004-06-15->2003-02-11
+---,Q112128529,Antonio Fernando Nve Ngu,Q111021199,Education and Science,2001-03-09,2003-02-11
++++,Q112128529,Antonio Fernando Nve Ngu,Q111021199,Education and Science,2003-02-11,2004-06-15
+->,Q1149802,Candido Muatetema Rivas,Q2351213,Prime Minister,2001-03-04->2001-02-26,2004-06-14->2004-06-15
+->,Q24761111,Francisco Pascual Eyegue Obama Asue,Q2351213,Prime Minister and Minister of Administrative Coordination,2016-06-22->2016-06-24,NULL->2019-12-31
+->,Q57898,Ignacio Milam Tang,Q2351213,Prime Minister,2008-07-08->2008-07-15,2012-05-21->2012-05-22
+->,Q57898,Ignacio Milam Tang,Q7925046,Vice-President,2012-05-21->2012-05-22,2016-06-22->2016-06-24
+---,Q29122413,Marcelino Owono Edu,Q111021200,Finance and Budget,2012-05-22,2015-04-15
+---,Q29122413,Marcelino Owono Edu,Q111021200,Finance and Budget,2004-06-15,2008-07-15
++++,Q29122413,Marcelino Owono Edu,Q111021200,Finance and Budget,2012-05-22,2015-04-15
++++,Q29122413,Marcelino Owono Edu,Q111021200,Finance and Budget,2004-06-15,2008-07-15
+->,Q1353126,Miguel Abia Biteo Borico,Q2351213,Prime Minister,2004-06-14->2004-06-15,2006-08-14->2006-08-22
++++,Q112163006,Nguema Mbasogo,Q19058522,President,2004-06-15,2019-12-31
+->,Q57385->Q112163006,Nguema Mbasogo,Q111021195->Q19058522,President and Minister of Defence,1993-12-22,2004-06-15
+->,Q477201,Nguema Teodoro Obiang,Q7925046,Vice-President,2012-05-21->2012-05-22,NULL->2016-06-24
+->,Q602837,Ricardo Mangue Obama Nfube,Q2351213,Prime Minister,2006-08-14->2006-08-22,2008-07-08->2008-07-15
+->,Q112163016,Salvador Ondo Nkumu,Q111021203,"Justice, Religion, and Penitentiary Institutions",2008-07-15->2018-02-06,2011-01-28->2019-12-31
+->,Q112163016,Salvador Ondo Nkumu,Q111021203,"Justice, Religion, and Penitentiary Institutions",2018-02-06->2008-07-15,2020-01-17->2011-01-28
+->,Q17198388,Santiago Nsobeya Efuman,Q112128225,"Information, Tourism and Culture",2006-01-01->2006-08-22,2008-01-01->2008-07-15
+---,Q57385,Teodoro Obiang,Q19058522,President of Equatorial Guinea,1979-08-03,
+---,Q2201806,Vicente Eate Tomi,Q112162665,Administrative Coordination,2008-07-15,2010-01-12
+---,Q2201806,Vicente Eate Tomi,Q112162665,Administrative Coordination,2011-01-28,2012-05-22
++++,Q2201806,Vicente Eate Tomi,Q112162665,Administrative Coordination,2011-01-28,2012-05-22
++++,Q2201806,Vicente Eate Tomi,Q112162665,Administrative Coordination,2008-07-15,2010-01-12
+->,Q2201806,Vicente Eate Tomi,Q2351213,Prime Minister and Minister of Administrative Coordination,2012-05-21->2012-05-22,2016-06-22->2016-06-24
