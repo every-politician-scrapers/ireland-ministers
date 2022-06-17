@@ -4,7 +4,7 @@
 require 'every_politician_scraper/comparison'
 require 'pry'
 
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def external
     super.delete_if { |row| row[:start] == row[:end] }
   end
