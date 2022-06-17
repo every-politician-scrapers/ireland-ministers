@@ -21,10 +21,6 @@ class OfficeholderList < OfficeholderListBase
     def name_node
       name_cell.css('a').first
     end
-
-    def ignore_before
-      2000
-    end
   end
 end
 

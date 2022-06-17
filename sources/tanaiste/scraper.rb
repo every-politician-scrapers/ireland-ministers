@@ -29,10 +29,6 @@ class OfficeholderList < OfficeholderListBase
     def raw_end
       end_cell.children.map(&:text).join(' ').tidy
     end
-
-    def ignore_before
-      1940
-    end
   end
 end
 
