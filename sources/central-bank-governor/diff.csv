@@ -1,12 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-+++,Joseph Brennan,Q6281714,1943,1953
-+++,James J. McElligott,,1953,1960
-+++,Maurice Moynihan,Q6793365,1960,1969
-+++,T. K. Whitaker,Q7668453,1969,1976
-+++,Charles Henry Murray,,1976,1981
-+++,Tomás F. Ó Cofaigh,,1981,1987
-+++,Maurice F. Doyle,,1987,1994
-->,Patrick Honohan,Q704379,2009-09-26->2009,2015-11-25->2015
-->,Philip R. Lane,Q7184252,2015-11-03->2015,2019-06-01->2019
----,Sharon Donnery,Q25433292,2019-06-02,2019-08-31
-->,Gabriel Makhlouf,Q75186229,2019-09-01->2019,
+@@,item,itemlabel,startdate,enddate
+---,Q25433292,Sharon Donnery,2019-06-02,2019-08-31
