@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Ireland",
+      "id": "Q27"
+    },
+    "cabinet": {
+      "id": "Q96679881",
+      "start": "2020-06-27",
+      "parent": "Q1672817"
+    },
+    "source": {
+        "url":   "https://www.gov.ie/en/organisation-information/9b5048-government-ministers/",
+        "title": "gov.ie - Government Ministers",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/ireland-ministers"
+}
