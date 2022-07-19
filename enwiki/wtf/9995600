@@ -1,0 +1,723 @@
+{
+  "title": "Joe O'Reilly",
+  "pageID": 9995600,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "Alumni of University College Dublin",
+    "Alumni of Trinity College Dublin",
+    "Alumni of St Patrick's College, Dublin",
+    "Alumni of Dublin Institute of Technology",
+    "Fine Gael TDs",
+    "Irish schoolteachers",
+    "Local councillors in County Cavan",
+    "Members of the 19th Seanad",
+    "Members of the 23rd Seanad",
+    "Members of the 25th Seanad",
+    "Members of the 26th Seanad",
+    "Members of the 31st Dáil",
+    "Fine Gael senators",
+    "People educated at St Patrick's College, Cavan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Joe O'Reilly (born 1 April 1955) is an Irish Fine Gael politician who has served as Leas-Chathaoirleach of Seanad Éireann since August 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fine Gael"
+                },
+                {
+                  "text": "Leas-Chathaoirleach",
+                  "type": "internal",
+                  "page": "Cathaoirleach",
+                  "anchor": "Leas-Chathaoirleach"
+                },
+                {
+                  "type": "internal",
+                  "page": "Seanad Éireann"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Joe O'Reilly"
+                ]
+              }
+            },
+            {
+              "text": "He has served as a Senator for the Labour Panel since April 2016, and previously from 2007 to 2011 for the Industrial and Commercial Panel and from 1989 to 1992 for the Cultural and Educational Panel.",
+              "links": [
+                {
+                  "text": "Senator",
+                  "type": "internal",
+                  "page": "Seanad Éireann"
+                },
+                {
+                  "type": "internal",
+                  "page": "Labour Panel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Industrial and Commercial Panel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cultural and Educational Panel"
+                }
+              ]
+            },
+            {
+              "text": "He served as a Teachta Dála (TD) for the Cavan–Monaghan constituency from 2011 to 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Teachta Dála"
+                },
+                {
+                  "text": "Cavan–Monaghan",
+                  "type": "internal",
+                  "page": "Cavan–Monaghan (Dáil constituency)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "the footballer",
+            "Joe O'Reilly (footballer)"
+          ],
+          "template": "for"
+        },
+        {
+          "description": "Irish Fine Gael politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "May 2016",
+          "template": "use hiberno-english"
+        },
+        {
+          "year": "1955",
+          "month": "4",
+          "day": "1",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "University College Dublin",
+            "Trinity College Dublin",
+            "St Patrick's College, Dublin",
+            "Dublin Institute of Technology"
+          ],
+          "template": "ubl"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Senator",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Seanad Éireann"
+              }
+            ]
+          },
+          "name": {
+            "text": "Joe O'Reilly"
+          },
+          "image": {
+            "text": "Joe O'Reilly (cropped).jpg"
+          },
+          "office": {
+            "text": "Leas-Chathaoirleach of Seanad Éireann",
+            "links": [
+              {
+                "text": "Leas-Chathaoirleach",
+                "type": "internal",
+                "page": "Cathaoirleach",
+                "anchor": "Leas-Chathaoirleach"
+              },
+              {
+                "type": "internal",
+                "page": "Seanad Éireann"
+              }
+            ]
+          },
+          "1blankname": {
+            "text": "Cathaoirleach"
+          },
+          "1namedata": {
+            "text": "Mark Daly",
+            "links": [
+              {
+                "text": "Mark Daly",
+                "type": "internal",
+                "page": "Mark Daly (politician)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "22 August 2020"
+          },
+          "predecessor": {
+            "text": "Jerry Buttimer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jerry Buttimer"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Senator",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Seanad Éireann"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "26 April 2016"
+          },
+          "constituency1": {
+            "text": "Labour Panel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Labour Panel"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "14 July 2007"
+          },
+          "term_end2": {
+            "text": "26 February 2011"
+          },
+          "constituency2": {
+            "text": "Industrial and Commercial Panel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Industrial and Commercial Panel"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "12 October 1989"
+          },
+          "term_end3": {
+            "text": "17 December 1992"
+          },
+          "constituency3": {
+            "text": "Cultural and Educational Panel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cultural and Educational Panel"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Teachta Dála",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teachta Dála"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "February 2011",
+            "links": [
+              {
+                "text": "February 2011",
+                "type": "internal",
+                "page": "2011 Irish general election"
+              }
+            ]
+          },
+          "term_end4": {
+            "text": "February 2016",
+            "links": [
+              {
+                "text": "February 2016",
+                "type": "internal",
+                "page": "2016 Irish general election"
+              }
+            ]
+          },
+          "constituency4": {
+            "text": "Cavan–Monaghan",
+            "links": [
+              {
+                "text": "Cavan–Monaghan",
+                "type": "internal",
+                "page": "Cavan–Monaghan (Dáil constituency)"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Joseph Patrick O'Reilly"
+          },
+          "birth_date": {
+            "text": "April 1, 1955"
+          },
+          "birth_place": {
+            "text": "Cootehill, County Cavan, Ireland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cootehill"
+              },
+              {
+                "type": "internal",
+                "page": "County Cavan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Irish",
+            "links": [
+              {
+                "text": "Irish",
+                "type": "internal",
+                "page": "Irish people"
+              }
+            ]
+          },
+          "party": {
+            "text": "Fine Gael",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fine Gael"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Mary Tully (m. 1989)"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "University College Dublin\n\nTrinity College Dublin\n\nSt Patrick's College, Dublin\n\nDublin Institute of Technology"
+          },
+          "website": {
+            "text": "joeoreilly.ie"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.oireachtas.ie/en/members/member/Joe-O'Reilly.S.1989-10-01/",
+          "title": "Joe O'Reilly",
+          "work": "Oireachtas Members Database",
+          "access-date": "18 February 2008",
+          "archive-date": "20 April 2019",
+          "archive-url": "https://web.archive.org/web/20190420174936/https://www.oireachtas.ie/en/members/member/Joe-O'Reilly.S.1989-10-01/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early and personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Cootehill, County Cavan, he was educated at St Patrick's College, Cavan; St. Aidan's Comprehensive School, Cootehill; University College Dublin; Trinity College Dublin; St Patrick's College, Dublin and the Dublin Institute of Technology.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cootehill"
+                },
+                {
+                  "type": "internal",
+                  "page": "County Cavan"
+                },
+                {
+                  "type": "internal",
+                  "page": "St Patrick's College, Cavan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cootehill"
+                },
+                {
+                  "type": "internal",
+                  "page": "University College Dublin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Trinity College Dublin"
+                },
+                {
+                  "type": "internal",
+                  "page": "St Patrick's College, Dublin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dublin Institute of Technology"
+                }
+              ]
+            },
+            {
+              "text": "O'Reilly is a primary school teacher by profession."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In local politics, he was first elected to Cavan County Council in 1985 but lost his seat in 1991.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cavan County Council"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected at the 1999 local elections for the Bailieborough local electoral area and again in 2004.",
+              "links": [
+                {
+                  "text": "1999 local elections",
+                  "type": "internal",
+                  "page": "1999 Irish local elections"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bailieborough"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a candidate at the 2007 general election for the Cavan–Monaghan constituency.",
+              "links": [
+                {
+                  "text": "2007 general election",
+                  "type": "internal",
+                  "page": "2007 Irish general election"
+                },
+                {
+                  "text": "Cavan–Monaghan constituency",
+                  "type": "internal",
+                  "page": "Cavan–Monaghan (Dáil constituency)"
+                }
+              ]
+            },
+            {
+              "text": "As a result of Fianna Fáil Minister Rory O'Hanlon serving as Ceann Comhairle of Dáil Éireann from 2002 to 2007, he was guaranteed reelection and therefore the seats were reduced from 5 to 4 in the constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fianna Fáil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rory O'Hanlon"
+                }
+              ]
+            },
+            {
+              "text": "He finished with a total of 9550 first preference votes, the highest losing vote in the country in that election."
+            },
+            {
+              "text": "He won a seat in the general election in February 2011.",
+              "links": [
+                {
+                  "text": "general election in February 2011",
+                  "type": "internal",
+                  "page": "2011 Irish general election"
+                }
+              ]
+            },
+            {
+              "text": "He lost this Dáil seat at the 2016 general election.",
+              "links": [
+                {
+                  "text": "2016 general election",
+                  "type": "internal",
+                  "page": "2016 Irish general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In European elections, he was an unsuccessful candidate at the 2009 European Parliament election, for the North-West constituency.",
+              "links": [
+                {
+                  "text": "2009 European Parliament election",
+                  "type": "internal",
+                  "page": "2009 European Parliament election in Ireland"
+                },
+                {
+                  "text": "North-West constituency",
+                  "type": "internal",
+                  "page": "North-West (European Parliament constituency)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As a Senator, he was first elected in 1989 to the 19th Seanad, on the Cultural and Educational Panel.",
+              "links": [
+                {
+                  "text": "19th Seanad",
+                  "type": "internal",
+                  "page": "19th Seanad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cultural and Educational Panel"
+                }
+              ]
+            },
+            {
+              "text": "He lost his seat at the 1993 Seanad elections and was unsuccessful again at the 1997 Seanad election."
+            },
+            {
+              "text": "He was elected to the 23rd Seanad in 2007, serving on the Industrial and Commercial Panel and as Fine Gael Seanad Spokesperson on Communications, Energy and Natural Resources.",
+              "links": [
+                {
+                  "text": "23rd Seanad",
+                  "type": "internal",
+                  "page": "23rd Seanad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Industrial and Commercial Panel"
+                }
+              ]
+            },
+            {
+              "text": "O'Reilly was elected to the Labour Panel of the 25th Seanad in April 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Labour Panel"
+                },
+                {
+                  "text": "25th Seanad",
+                  "type": "internal",
+                  "page": "Members of the 25th Seanad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is the Fine Gael Seanad Spokesperson on Foreign Affairs and Trade."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://electionsireland.org/result.cfm?election=2007&cons=38",
+          "title": "ElectionsIreland.org: 30th Dáil - Cavan Monaghan",
+          "website": "electionsireland.org",
+          "date": "24 May 2007",
+          "accessdate": "17 June 2021",
+          "archive-date": "31 August 2021",
+          "archive-url": "https://web.archive.org/web/20210831082554/https://www.electionsireland.org/result.cfm?election=2007&cons=38",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.irishexaminer.com/ireland/clear-out-of-seanad-old-guard-a-blow-to-enda-kenny-395440.html",
+          "title": "Clear-out of Seanad 'old guard' a blow to Enda Kenny",
+          "work": "Irish Examiner",
+          "date": "28 April 2016",
+          "access-date": "29 April 2016",
+          "archive-date": "30 April 2016",
+          "archive-url": "https://web.archive.org/web/20160430035628/https://www.irishexaminer.com/ireland/clear-out-of-seanad-old-guard-a-blow-to-enda-kenny-395440.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.electionsireland.org/candidate.cfm?id=38",
+          "title": "Joe O'Reilly",
+          "work": "ElectionsIreland.org",
+          "access-date": "18 February 2008",
+          "archive-date": "29 September 2007",
+          "archive-url": "https://web.archive.org/web/20070929122057/http://www.electionsireland.org/candidate.cfm?id=38",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political views",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2017, Fine Gael announced that they were planning a bill to allow pubs to open on Good Friday, reversing a 90-year-old ban.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Good Friday"
+                }
+              ]
+            },
+            {
+              "text": "O'Reilly went against his party's view and said that the tradition was \"part of our national identity\"."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.independent.ie/irish-news/politics/its-part-of-our-national-identity-fg-senator-breaks-ranks-over-good-friday-alcohol-bill-35617245.html",
+          "title": "'It's part of our national identity' - FG Senator breaks ranks over Good Friday Alcohol Bill",
+          "work": "Irish Independent",
+          "access-date": "12 April 2017",
+          "archive-date": "13 April 2017",
+          "archive-url": "https://web.archive.org/web/20170413072621/http://www.independent.ie/irish-news/politics/its-part-of-our-national-identity-fg-senator-breaks-ranks-over-good-friday-alcohol-bill-35617245.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "joeoreilly.ie"
+          ],
+          "template": "official website"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "ie/oi"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Rory O'Hanlon\n(Fianna Fáil)",
+          "template": "s-bef"
+        },
+        {
+          "title": "Fine Gael Teachta Dála for Cavan–Monaghan",
+          "years": "2011–2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Constituency redrawn",
+          "template": "s-aft"
+        },
+        {
+          "template": "members of the 19th seanad"
+        },
+        {
+          "template": "members of the 23rd seanad"
+        },
+        {
+          "template": "members of the 25th seanad"
+        },
+        {
+          "template": "members of the 26th seanad"
+        },
+        {
+          "template": "fine gael"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Joe O'Reilly's page on the Fine Gael website",
+            "links": [
+              {
+                "text": "Joe O'Reilly's page on the Fine Gael website",
+                "type": "external",
+                "site": "https://www.finegael.ie/our-people/senators/cavan-monaghan/joe-oreilly/"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Joe O'Reilly's page on the Fine Gael website",
+            "links": [
+              {
+                "text": "Joe O'Reilly's page on the Fine Gael website",
+                "type": "external",
+                "site": "https://www.finegael.ie/our-people/senators/cavan-monaghan/joe-oreilly/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

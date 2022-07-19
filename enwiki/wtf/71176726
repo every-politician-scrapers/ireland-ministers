@@ -1,0 +1,252 @@
+{
+  "title": "Caroline Conroy",
+  "pageID": 71176726,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Green Party (Ireland) politicians",
+    "Local councillors in Dublin (city)",
+    "Lord Mayors of Dublin",
+    "Alumni of Dublin City University"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Caroline Conroy is an Irish Green Party politician who has served as Lord Mayor of Dublin since June 2022.",
+              "links": [
+                {
+                  "text": "Green  Party",
+                  "type": "internal",
+                  "page": "Green Party (Ireland)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lord Mayor of Dublin"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Caroline Conroy"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2022, she was elected as the 354th Lord Mayor of Dublin, succeeding Alison Gilliland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dublin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alison Gilliland"
+                }
+              ]
+            },
+            {
+              "text": "She was elected to Dublin City Council for the Ballymun-Finglas local electoral area in 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dublin City Council"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ballymun"
+                },
+                {
+                  "type": "internal",
+                  "page": "Finglas"
+                }
+              ]
+            },
+            {
+              "text": "She also serves on the executive committee of the Green Party."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Irish Green Party politician",
+          "template": "short description"
+        },
+        {
+          "date": "June 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "June 2022",
+          "template": "use hiberno-english"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Caroline Conroy"
+          },
+          "office": {
+            "text": "Lord Mayor of Dublin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lord Mayor of Dublin"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "27 June 2022"
+          },
+          "predecessor": {
+            "text": "Alison Gilliland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alison Gilliland"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Dublin City Councillor",
+            "links": [
+              {
+                "text": "Dublin City Councillor",
+                "type": "internal",
+                "page": "Dublin City Council"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "May 2019"
+          },
+          "constituency1": {
+            "text": "Ballymun-Finglas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ballymun"
+              },
+              {
+                "type": "internal",
+                "page": "Finglas"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "8 February 1977"
+          },
+          "nationality": {
+            "text": "Irish",
+            "links": [
+              {
+                "text": "Irish",
+                "type": "internal",
+                "page": "Irish people"
+              }
+            ]
+          },
+          "party": {
+            "text": "Green Party",
+            "links": [
+              {
+                "text": "Green Party",
+                "type": "internal",
+                "page": "Green Party (Ireland)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Dublin City University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dublin City University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Green Party councillor elected as new Dublin Lord Mayor",
+          "url": "https://www.irishtimes.com/politics/2022/06/27/green-party-councillor-elected-new-lord-mayor-of-dublin/",
+          "date": "27 June 2022",
+          "access-date": "28 June 2022",
+          "work": "The Irish Times",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-civ"
+        },
+        {
+          "before": "Alison Gilliland",
+          "template": "s-bef"
+        },
+        {
+          "title": "Lord Mayor of Dublin",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "mayors of capital cities of european union member states"
+        },
+        {
+          "template": "irishgreen-politician-stub"
+        },
+        {
+          "template": "ireland-mayor-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Green Party profile",
+            "links": [
+              {
+                "text": "Green Party profile",
+                "type": "external",
+                "site": "https://www.greenparty.ie/people/caroline-conroy"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
